@@ -1,0 +1,199 @@
+{
+  "muscle_group": "Core",
+  "exercises": [
+    {
+      "name": "Plank",
+      "sets": 3,
+      "reps": 60,
+      "rest_seconds": 60,
+      "description": "Latihan isometrik untuk menguatkan seluruh otot inti.",
+      "instructions": [
+        "Posisikan tubuh seperti push-up namun bertumpu pada siku.",
+        "Jaga tubuh tetap lurus dari kepala hingga kaki.",
+        "Tahan posisi selama durasi yang ditentukan."
+      ],
+      "warning": "Jangan biarkan pinggul turun atau terlalu terangkat untuk menghindari cedera punggung."
+    },
+    {
+      "name": "Side Plank",
+      "sets": 3,
+      "reps": 45,
+      "rest_seconds": 60,
+      "description": "Menguatkan otot core bagian samping dan obliques.",
+      "instructions": [
+        "Berbaring miring dengan siku di bawah bahu.",
+        "Angkat pinggul hingga tubuh membentuk garis lurus.",
+        "Tahan posisi."
+      ],
+      "warning": "Jaga agar bahu tidak maju atau mundur."
+    },
+    {
+      "name": "Russian Twist",
+      "sets": 3,
+      "reps": 20,
+      "rest_seconds": 45,
+      "description": "Latihan rotasi untuk melatih obliques dan rectus abdominis.",
+      "instructions": [
+        "Duduk dengan lutut ditekuk dan sedikit condong ke belakang.",
+        "Pegang beban atau bola, putar tubuh ke kanan dan kiri.",
+        "Jaga gerakan tetap terkontrol."
+      ],
+      "warning": "Hindari membungkuk terlalu jauh ke belakang agar tidak membebani punggung."
+    },
+    {
+      "name": "Hanging Leg Raise",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Fokus pada otot perut bagian bawah.",
+      "instructions": [
+        "Gantung pada pull-up bar.",
+        "Angkat kaki lurus ke depan hingga sejajar pinggang.",
+        "Turunkan perlahan."
+      ],
+      "warning": "Jangan ayunkan tubuh berlebihan."
+    },
+    {
+      "name": "Bicycle Crunch",
+      "sets": 3,
+      "reps": 20,
+      "rest_seconds": 45,
+      "description": "Mengaktifkan seluruh otot perut dan obliques.",
+      "instructions": [
+        "Berbaring telentang dengan tangan di belakang kepala.",
+        "Angkat bahu dan kaki dari lantai.",
+        "Lakukan gerakan seperti mengayuh sepeda sambil menyentuh siku ke lutut berlawanan."
+      ],
+      "warning": "Jangan menarik leher dengan tangan."
+    },
+    {
+      "name": "Mountain Climbers",
+      "sets": 4,
+      "reps": 30,
+      "rest_seconds": 45,
+      "description": "Latihan kardio-core yang melatih perut dan bahu.",
+      "instructions": [
+        "Posisi push-up, tarik lutut bergantian ke arah dada.",
+        "Jaga ritme cepat dan terkontrol."
+      ],
+      "warning": "Jangan angkat pinggul terlalu tinggi."
+    },
+    {
+      "name": "Ab Wheel Rollout",
+      "sets": 3,
+      "reps": 10,
+      "rest_seconds": 60,
+      "description": "Melatih seluruh core dengan beban tubuh.",
+      "instructions": [
+        "Pegang ab wheel di lantai, lutut bertumpu.",
+        "Gulung ke depan sejauh mungkin.",
+        "Tarik kembali ke posisi awal."
+      ],
+      "warning": "Jaga punggung tetap netral, jangan membungkuk berlebihan."
+    },
+    {
+      "name": "Reverse Crunch",
+      "sets": 3,
+      "reps": 15,
+      "rest_seconds": 45,
+      "description": "Menargetkan perut bawah secara spesifik.",
+      "instructions": [
+        "Berbaring telentang dengan lutut ditekuk.",
+        "Angkat pinggul dari lantai sambil membawa lutut ke dada.",
+        "Turunkan perlahan."
+      ],
+      "warning": "Gunakan kontrol, jangan mengandalkan momentum."
+    },
+    {
+      "name": "V-Up",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Menggabungkan crunch dan leg raise.",
+      "instructions": [
+        "Berbaring dengan kaki dan tangan lurus.",
+        "Angkat kaki dan badan secara bersamaan hingga membentuk huruf V.",
+        "Turunkan perlahan."
+      ],
+      "warning": "Jaga gerakan tetap halus untuk menghindari cedera punggung bawah."
+    },
+    {
+      "name": "Flutter Kicks",
+      "sets": 3,
+      "reps": 30,
+      "rest_seconds": 45,
+      "description": "Latihan dinamis untuk perut bawah.",
+      "instructions": [
+        "Berbaring telentang, angkat kaki sedikit dari lantai.",
+        "Gerakkan kaki naik-turun bergantian.",
+        "Jaga perut tetap kencang."
+      ],
+      "warning": "Jangan biarkan punggung bawah terangkat dari lantai."
+    },
+    {
+      "name": "Cable Woodchopper",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Melatih core dan rotasi pinggang.",
+      "instructions": [
+        "Atur pulley di posisi tinggi.",
+        "Tarik pegangan ke bawah dan menyilang tubuh.",
+        "Kembali perlahan ke posisi awal."
+      ],
+      "warning": "Jaga posisi lutut sedikit ditekuk untuk kestabilan."
+    },
+    {
+      "name": "Toe Touches",
+      "sets": 3,
+      "reps": 15,
+      "rest_seconds": 45,
+      "description": "Menargetkan perut atas.",
+      "instructions": [
+        "Berbaring dengan kaki lurus ke atas.",
+        "Sentuh ujung kaki dengan tangan.",
+        "Kembali ke posisi awal."
+      ],
+      "warning": "Gunakan otot perut, bukan momentum."
+    },
+    {
+      "name": "Seated Knee Tuck",
+      "sets": 3,
+      "reps": 15,
+      "rest_seconds": 45,
+      "description": "Latihan fleksibel untuk seluruh core.",
+      "instructions": [
+        "Duduk di ujung bangku, pegang sisi bangku.",
+        "Tarik lutut ke arah dada.",
+        "Luruskan kembali kaki."
+      ],
+      "warning": "Jaga punggung tetap tegak."
+    },
+    {
+      "name": "Dragon Flag",
+      "sets": 3,
+      "reps": 8,
+      "rest_seconds": 90,
+      "description": "Latihan advanced untuk kekuatan core ekstrem.",
+      "instructions": [
+        "Berbaring di bangku, pegang kepala bangku.",
+        "Angkat tubuh lurus dari bahu hingga kaki.",
+        "Turunkan perlahan tanpa menyentuh bangku."
+      ],
+      "warning": "Hanya untuk level lanjut, risiko cedera tinggi jika dilakukan salah."
+    },
+    {
+      "name": "Dead Bug",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 45,
+      "description": "Menguatkan core dengan gerakan terkontrol.",
+      "instructions": [
+        "Berbaring telentang, tangan dan kaki di udara.",
+        "Turunkan kaki kanan dan tangan kiri secara bersamaan.",
+        "Kembali ke posisi awal lalu ganti sisi."
+      ],
+      "warning": "Jaga punggung bawah tetap menempel di lantai."
+    }
+  ]
+}

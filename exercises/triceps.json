@@ -1,0 +1,200 @@
+{
+  "muscle_group": "Triceps",
+  "exercises": [
+    {
+      "name": "Close-Grip Bench Press",
+      "sets": 4,
+      "reps": 8,
+      "rest_seconds": 90,
+      "description": "Latihan compound untuk mengembangkan triceps dengan posisi tangan lebih sempit.",
+      "instructions": [
+        "Berbaring di bangku datar dengan barbel.",
+        "Pegang barbel dengan jarak genggaman sempit (sekitar bahu).",
+        "Turunkan barbel ke dada lalu dorong kembali."
+      ],
+      "warning": "Jangan kunci siku di atas secara keras."
+    },
+    {
+      "name": "Skull Crusher (EZ Bar)",
+      "sets": 3,
+      "reps": 10,
+      "rest_seconds": 60,
+      "description": "Isolasi triceps menggunakan bar EZ.",
+      "instructions": [
+        "Berbaring di bangku datar.",
+        "Pegang EZ bar dengan tangan lurus ke atas.",
+        "Turunkan bar ke arah dahi lalu dorong kembali."
+      ],
+      "warning": "Gunakan beban sedang untuk kontrol gerakan."
+    },
+    {
+      "name": "Dumbbell Overhead Extension",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Latihan triceps dengan posisi overhead.",
+      "instructions": [
+        "Pegang dumbbell dengan kedua tangan di atas kepala.",
+        "Turunkan di belakang kepala.",
+        "Dorong kembali ke atas."
+      ],
+      "warning": "Jangan membiarkan siku melebar."
+    },
+    {
+      "name": "Cable Pushdown (Straight Bar)",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 45,
+      "description": "Latihan triceps dengan mesin kabel.",
+      "instructions": [
+        "Pegang straight bar pada pulley tinggi.",
+        "Dorong ke bawah hingga lengan lurus.",
+        "Kembali perlahan."
+      ],
+      "warning": "Jangan condongkan badan terlalu jauh."
+    },
+    {
+      "name": "Cable Pushdown (Rope)",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 45,
+      "description": "Variasi pushdown dengan rope untuk kontraksi maksimal.",
+      "instructions": [
+        "Pegang rope pada pulley tinggi.",
+        "Dorong ke bawah sambil memisahkan rope di bawah.",
+        "Kembali perlahan."
+      ],
+      "warning": "Gunakan kontrol penuh, jangan hentak."
+    },
+    {
+      "name": "One Arm Overhead Cable Extension",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 45,
+      "description": "Isolasi triceps satu lengan menggunakan kabel.",
+      "instructions": [
+        "Pegang handle kabel di belakang kepala.",
+        "Dorong ke atas hingga lengan lurus.",
+        "Kembali perlahan."
+      ],
+      "warning": "Pastikan siku tetap stabil."
+    },
+    {
+      "name": "Bench Dip",
+      "sets": 3,
+      "reps": 15,
+      "rest_seconds": 60,
+      "description": "Bodyweight exercise untuk triceps.",
+      "instructions": [
+        "Duduk di bangku dengan tangan di samping.",
+        "Turunkan tubuh ke bawah dengan menekuk siku.",
+        "Dorong kembali ke posisi awal."
+      ],
+      "warning": "Jangan turunkan terlalu dalam untuk hindari cedera bahu."
+    },
+    {
+      "name": "Diamond Push-Up",
+      "sets": 3,
+      "reps": 15,
+      "rest_seconds": 60,
+      "description": "Push-up dengan tangan membentuk diamond untuk menargetkan triceps.",
+      "instructions": [
+        "Posisikan tangan di bawah dada membentuk segitiga.",
+        "Turunkan tubuh hingga dada hampir menyentuh tangan.",
+        "Dorong kembali ke atas."
+      ],
+      "warning": "Jaga punggung tetap lurus."
+    },
+    {
+      "name": "Reverse Grip Cable Pushdown",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 45,
+      "description": "Pushdown dengan pegangan terbalik untuk fokus pada long head triceps.",
+      "instructions": [
+        "Pegang straight bar dengan telapak tangan menghadap atas.",
+        "Dorong ke bawah hingga lengan lurus.",
+        "Kembali perlahan."
+      ],
+      "warning": "Jaga siku tetap di sisi tubuh."
+    },
+    {
+      "name": "Barbell JM Press",
+      "sets": 3,
+      "reps": 10,
+      "rest_seconds": 60,
+      "description": "Gabungan close-grip bench press dan skull crusher.",
+      "instructions": [
+        "Berbaring di bangku dengan barbel.",
+        "Turunkan bar ke arah dagu sambil menjaga siku tetap di atas.",
+        "Dorong kembali ke posisi awal."
+      ],
+      "warning": "Gunakan beban ringan hingga menengah."
+    },
+    {
+      "name": "Kneeling Cable Extension",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 45,
+      "description": "Triceps extension dari posisi berlutut.",
+      "instructions": [
+        "Berlutut di depan pulley tinggi.",
+        "Pegang handle atau rope di belakang kepala.",
+        "Dorong ke depan hingga lengan lurus."
+      ],
+      "warning": "Jaga punggung tetap netral."
+    },
+    {
+      "name": "EZ Bar Overhead Extension",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Overhead extension menggunakan EZ bar.",
+      "instructions": [
+        "Pegang EZ bar di atas kepala.",
+        "Turunkan di belakang kepala.",
+        "Dorong kembali ke atas."
+      ],
+      "warning": "Jangan mengayunkan beban."
+    },
+    {
+      "name": "Bodyweight Triceps Extension",
+      "sets": 3,
+      "reps": 15,
+      "rest_seconds": 60,
+      "description": "Latihan triceps dengan berat badan menggunakan bar rendah.",
+      "instructions": [
+        "Pegang bar rendah dengan telapak tangan menghadap bawah.",
+        "Turunkan tubuh dengan menekuk siku.",
+        "Dorong kembali."
+      ],
+      "warning": "Jaga tubuh tetap lurus."
+    },
+    {
+      "name": "Overhead Dumbbell Kickback",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 45,
+      "description": "Kickback dari posisi miring ke depan.",
+      "instructions": [
+        "Pegang dumbbell dan condongkan tubuh sedikit.",
+        "Dorong dumbbell ke belakang hingga lengan lurus.",
+        "Kembali perlahan."
+      ],
+      "warning": "Jangan goyangkan bahu."
+    },
+    {
+      "name": "Resistance Band Triceps Pushdown",
+      "sets": 3,
+      "reps": 15,
+      "rest_seconds": 45,
+      "description": "Variasi pushdown menggunakan resistance band.",
+      "instructions": [
+        "Pasang resistance band di atas.",
+        "Pegang ujung band dan dorong ke bawah.",
+        "Kembali perlahan."
+      ],
+      "warning": "Gunakan gerakan terkendali."
+    }
+  ]
+}

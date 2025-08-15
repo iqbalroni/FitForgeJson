@@ -1,0 +1,200 @@
+{
+  "muscle_group": "Legs",
+  "exercises": [
+    {
+      "name": "Barbell Squat",
+      "sets": 4,
+      "reps": 8,
+      "rest_seconds": 120,
+      "description": "Latihan compound utama untuk seluruh otot kaki.",
+      "instructions": [
+        "Posisikan barbel di belakang bahu.",
+        "Turunkan tubuh hingga paha sejajar lantai.",
+        "Dorong kembali ke posisi berdiri."
+      ],
+      "warning": "Jaga punggung tetap lurus untuk mencegah cedera."
+    },
+    {
+      "name": "Front Squat",
+      "sets": 4,
+      "reps": 8,
+      "rest_seconds": 120,
+      "description": "Variasi squat yang lebih fokus pada quadriceps.",
+      "instructions": [
+        "Posisikan barbel di depan bahu.",
+        "Turunkan tubuh hingga paha sejajar lantai.",
+        "Dorong kembali ke atas."
+      ],
+      "warning": "Jaga siku tetap tinggi selama gerakan."
+    },
+    {
+      "name": "Lunges",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Latihan unilateral untuk kaki dan glutes.",
+      "instructions": [
+        "Langkahkan satu kaki ke depan.",
+        "Turunkan tubuh hingga lutut belakang hampir menyentuh lantai.",
+        "Dorong kembali ke posisi awal."
+      ],
+      "warning": "Pastikan lutut depan tidak melewati ujung jari kaki."
+    },
+    {
+      "name": "Bulgarian Split Squat",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Latihan unilateral yang menargetkan quads dan glutes.",
+      "instructions": [
+        "Letakkan satu kaki di bangku di belakang.",
+        "Turunkan tubuh hingga lutut belakang hampir menyentuh lantai.",
+        "Dorong kembali ke atas."
+      ],
+      "warning": "Jaga keseimbangan untuk menghindari cedera."
+    },
+    {
+      "name": "Leg Press",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 90,
+      "description": "Latihan kaki dengan mesin yang aman untuk beban berat.",
+      "instructions": [
+        "Duduk di mesin leg press.",
+        "Dorong platform menjauh dengan kaki.",
+        "Turunkan perlahan kembali."
+      ],
+      "warning": "Jangan mengunci lutut saat meluruskan kaki."
+    },
+    {
+      "name": "Hack Squat",
+      "sets": 3,
+      "reps": 10,
+      "rest_seconds": 90,
+      "description": "Variasi squat menggunakan mesin hack squat.",
+      "instructions": [
+        "Posisikan bahu di bantalan mesin.",
+        "Turunkan tubuh perlahan.",
+        "Dorong kembali ke atas."
+      ],
+      "warning": "Jaga punggung tetap menempel pada bantalan."
+    },
+    {
+      "name": "Step-Up",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Latihan untuk kaki dan glutes dengan beban tubuh atau dumbbell.",
+      "instructions": [
+        "Naik ke bangku atau box dengan satu kaki.",
+        "Dorong tubuh ke atas hingga berdiri.",
+        "Turun perlahan."
+      ],
+      "warning": "Gunakan bangku yang stabil."
+    },
+    {
+      "name": "Sumo Deadlift",
+      "sets": 4,
+      "reps": 8,
+      "rest_seconds": 120,
+      "description": "Variasi deadlift dengan stance lebar untuk fokus ke kaki bagian dalam.",
+      "instructions": [
+        "Berdiri dengan kaki lebar dan jari kaki menghadap keluar.",
+        "Pegang barbel di tengah.",
+        "Angkat dengan punggung lurus."
+      ],
+      "warning": "Jangan membulatkan punggung."
+    },
+    {
+      "name": "Glute Bridge",
+      "sets": 3,
+      "reps": 15,
+      "rest_seconds": 60,
+      "description": "Latihan glutes dan hamstring dengan beban tubuh.",
+      "instructions": [
+        "Berbaring dengan lutut ditekuk.",
+        "Dorong pinggul ke atas hingga tubuh sejajar.",
+        "Turunkan perlahan."
+      ],
+      "warning": "Jangan mengangkat punggung terlalu tinggi."
+    },
+    {
+      "name": "Hip Thrust",
+      "sets": 4,
+      "reps": 10,
+      "rest_seconds": 90,
+      "description": "Latihan utama untuk glutes dengan barbel.",
+      "instructions": [
+        "Posisikan punggung atas di bangku.",
+        "Letakkan barbel di atas pinggul.",
+        "Dorong pinggul ke atas."
+      ],
+      "warning": "Gunakan bantalan untuk kenyamanan pinggul."
+    },
+    {
+      "name": "Leg Extension",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Isolasi quadriceps menggunakan mesin.",
+      "instructions": [
+        "Duduk di mesin leg extension.",
+        "Luruskan kaki penuh.",
+        "Turunkan perlahan."
+      ],
+      "warning": "Jangan mengunci lutut saat meluruskan."
+    },
+    {
+      "name": "Leg Curl",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Isolasi hamstring menggunakan mesin.",
+      "instructions": [
+        "Berbaring di mesin leg curl.",
+        "Tekuk kaki hingga mendekati glutes.",
+        "Turunkan perlahan."
+      ],
+      "warning": "Gunakan beban yang terkendali."
+    },
+    {
+      "name": "Walking Lunge",
+      "sets": 3,
+      "reps": 20,
+      "rest_seconds": 60,
+      "description": "Variasi lunge sambil berjalan untuk melatih kaki dan keseimbangan.",
+      "instructions": [
+        "Langkahkan kaki ke depan.",
+        "Turunkan tubuh hingga lutut belakang hampir menyentuh lantai.",
+        "Lanjutkan ke langkah berikutnya."
+      ],
+      "warning": "Jaga tubuh tetap tegak."
+    },
+    {
+      "name": "Box Jump",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 90,
+      "description": "Latihan plyometric untuk kekuatan kaki.",
+      "instructions": [
+        "Berdiri di depan box atau bangku.",
+        "Lompat ke atas box dengan kedua kaki.",
+        "Turun perlahan."
+      ],
+      "warning": "Gunakan box yang stabil dan aman."
+    },
+    {
+      "name": "Wall Sit",
+      "sets": 3,
+      "reps": 60,
+      "rest_seconds": 60,
+      "description": "Latihan isometrik untuk kaki.",
+      "instructions": [
+        "Bersandar di dinding dengan lutut 90 derajat.",
+        "Tahan posisi sesuai durasi.",
+        "Kembali berdiri perlahan."
+      ],
+      "warning": "Jaga punggung tetap menempel pada dinding."
+    }
+  ]
+}

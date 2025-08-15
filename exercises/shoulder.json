@@ -1,0 +1,200 @@
+{
+  "muscle_group": "Shoulders",
+  "exercises": [
+    {
+      "name": "Overhead Barbell Press",
+      "sets": 4,
+      "reps": 8,
+      "rest_seconds": 90,
+      "description": "Latihan utama untuk membangun kekuatan dan massa otot bahu bagian depan dan samping.",
+      "instructions": [
+        "Berdiri tegak dengan barbel di depan bahu.",
+        "Dorong barbel ke atas hingga lengan lurus.",
+        "Turunkan perlahan kembali ke posisi awal."
+      ],
+      "warning": "Jaga punggung tetap lurus untuk menghindari cedera pinggang."
+    },
+    {
+      "name": "Dumbbell Shoulder Press",
+      "sets": 4,
+      "reps": 10,
+      "rest_seconds": 90,
+      "description": "Melatih otot bahu secara seimbang dengan beban bebas.",
+      "instructions": [
+        "Duduk tegak di bangku.",
+        "Pegang dumbbell di sisi bahu.",
+        "Tekan dumbbell ke atas hingga lengan lurus."
+      ],
+      "warning": "Gunakan beban yang dapat dikontrol agar gerakan stabil."
+    },
+    {
+      "name": "Arnold Press",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 90,
+      "description": "Variasi shoulder press yang menargetkan berbagai bagian bahu.",
+      "instructions": [
+        "Mulai dengan dumbbell di depan dada, telapak tangan menghadap tubuh.",
+        "Putar pergelangan tangan sambil mendorong dumbbell ke atas.",
+        "Kembali ke posisi awal dengan kontrol."
+      ],
+      "warning": "Hindari beban terlalu berat untuk menjaga bentuk gerakan."
+    },
+    {
+      "name": "Lateral Raise",
+      "sets": 3,
+      "reps": 15,
+      "rest_seconds": 60,
+      "description": "Isolasi otot bahu samping untuk memberikan lebar pada bahu.",
+      "instructions": [
+        "Pegang dumbbell di samping tubuh.",
+        "Angkat kedua tangan ke samping hingga sejajar bahu.",
+        "Turunkan perlahan ke posisi awal."
+      ],
+      "warning": "Jangan mengayunkan tangan, lakukan gerakan perlahan."
+    },
+    {
+      "name": "Front Raise",
+      "sets": 3,
+      "reps": 15,
+      "rest_seconds": 60,
+      "description": "Menargetkan otot bahu depan untuk kekuatan dan definisi.",
+      "instructions": [
+        "Pegang dumbbell di depan paha.",
+        "Angkat ke depan hingga sejajar bahu.",
+        "Turunkan perlahan ke posisi awal."
+      ],
+      "warning": "Jangan angkat melebihi bahu untuk menghindari cedera."
+    },
+    {
+      "name": "Rear Delt Fly",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Isolasi otot bahu belakang untuk keseimbangan postur.",
+      "instructions": [
+        "Duduk di ujung bangku dengan tubuh condong ke depan.",
+        "Pegang dumbbell dan angkat ke samping sejajar bahu.",
+        "Kembali perlahan ke posisi awal."
+      ],
+      "warning": "Jaga punggung tetap lurus selama latihan."
+    },
+    {
+      "name": "Upright Row",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Melatih bahu dan trapezius dengan gerakan tarik ke atas.",
+      "instructions": [
+        "Pegang barbel di depan paha.",
+        "Tarik ke atas hingga setinggi dada.",
+        "Turunkan perlahan ke posisi awal."
+      ],
+      "warning": "Hindari mengangkat terlalu tinggi untuk mencegah cedera bahu."
+    },
+    {
+      "name": "Cable Lateral Raise",
+      "sets": 3,
+      "reps": 15,
+      "rest_seconds": 60,
+      "description": "Memberikan ketegangan konstan pada otot bahu samping.",
+      "instructions": [
+        "Atur kabel rendah di sisi tubuh.",
+        "Pegang handle dan angkat ke samping sejajar bahu.",
+        "Turunkan perlahan ke posisi awal."
+      ],
+      "warning": "Gunakan beban ringan untuk kontrol yang lebih baik."
+    },
+    {
+      "name": "Face Pull",
+      "sets": 3,
+      "reps": 15,
+      "rest_seconds": 60,
+      "description": "Menargetkan bahu belakang dan otot punggung atas.",
+      "instructions": [
+        "Atur kabel setinggi wajah dengan tali pegangan.",
+        "Tarik ke arah wajah sambil membuka siku ke samping.",
+        "Kembali perlahan ke posisi awal."
+      ],
+      "warning": "Jaga gerakan terkendali dan hindari beban berlebihan."
+    },
+    {
+      "name": "Dumbbell Shrug",
+      "sets": 3,
+      "reps": 15,
+      "rest_seconds": 45,
+      "description": "Menguatkan trapezius untuk menopang bahu.",
+      "instructions": [
+        "Pegang dumbbell di sisi tubuh.",
+        "Angkat bahu setinggi mungkin.",
+        "Turunkan perlahan."
+      ],
+      "warning": "Jangan memutar bahu, hanya angkat dan turunkan."
+    },
+    {
+      "name": "Seated Overhead Press",
+      "sets": 4,
+      "reps": 8,
+      "rest_seconds": 90,
+      "description": "Variasi shoulder press dengan posisi duduk untuk mengurangi bantuan otot kaki.",
+      "instructions": [
+        "Duduk di bangku dengan sandaran tegak.",
+        "Pegang barbel di bahu dan dorong ke atas.",
+        "Turunkan perlahan ke posisi awal."
+      ],
+      "warning": "Jaga core tetap aktif untuk stabilitas."
+    },
+    {
+      "name": "Z Press",
+      "sets": 3,
+      "reps": 8,
+      "rest_seconds": 90,
+      "description": "Latihan press dengan duduk di lantai untuk mengisolasi bahu.",
+      "instructions": [
+        "Duduk di lantai dengan kaki lurus.",
+        "Pegang barbel di bahu dan dorong ke atas.",
+        "Turunkan perlahan ke posisi awal."
+      ],
+      "warning": "Pastikan punggung tidak membungkuk."
+    },
+    {
+      "name": "Plate Front Raise",
+      "sets": 3,
+      "reps": 15,
+      "rest_seconds": 45,
+      "description": "Latihan otot bahu depan dengan beban piringan.",
+      "instructions": [
+        "Pegang piringan dengan kedua tangan di depan paha.",
+        "Angkat hingga setinggi bahu.",
+        "Turunkan perlahan."
+      ],
+      "warning": "Jangan menggunakan beban terlalu berat."
+    },
+    {
+      "name": "Dumbbell Cuban Press",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Melatih rotator cuff dan bahu secara bersamaan.",
+      "instructions": [
+        "Mulai dari posisi upright row.",
+        "Putar bahu sehingga dumbbell sejajar kepala.",
+        "Tekan ke atas hingga lengan lurus."
+      ],
+      "warning": "Gunakan beban ringan untuk menghindari cedera rotator cuff."
+    },
+    {
+      "name": "Reverse Pec Deck",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Mesin isolasi untuk otot bahu belakang.",
+      "instructions": [
+        "Duduk di mesin pec deck menghadap bantalan.",
+        "Pegang pegangan dan tarik ke belakang sejauh mungkin.",
+        "Kembali perlahan ke posisi awal."
+      ],
+      "warning": "Jangan gunakan momentum untuk menarik beban."
+    }
+  ]
+}

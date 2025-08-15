@@ -1,0 +1,200 @@
+{
+  "muscle_group": "Quadriceps",
+  "exercises": [
+    {
+      "name": "Barbell Back Squat",
+      "sets": 4,
+      "reps": 8,
+      "rest_seconds": 120,
+      "description": "Latihan utama untuk kekuatan dan massa quadriceps.",
+      "instructions": [
+        "Letakkan barbel di punggung atas.",
+        "Turunkan tubuh hingga paha sejajar lantai.",
+        "Dorong kembali ke posisi awal."
+      ],
+      "warning": "Jaga punggung tetap netral."
+    },
+    {
+      "name": "Front Squat",
+      "sets": 4,
+      "reps": 8,
+      "rest_seconds": 120,
+      "description": "Variasi squat yang lebih menekankan quadriceps.",
+      "instructions": [
+        "Letakkan barbel di depan bahu.",
+        "Turunkan tubuh hingga paha sejajar lantai.",
+        "Dorong kembali ke posisi awal."
+      ],
+      "warning": "Jaga siku tetap tinggi."
+    },
+    {
+      "name": "Leg Press",
+      "sets": 4,
+      "reps": 12,
+      "rest_seconds": 90,
+      "description": "Menggunakan mesin leg press untuk melatih quadriceps.",
+      "instructions": [
+        "Duduk di mesin leg press.",
+        "Dorong platform dengan kaki.",
+        "Turunkan perlahan hingga lutut 90 derajat."
+      ],
+      "warning": "Jangan mengunci lutut di atas."
+    },
+    {
+      "name": "Walking Lunge",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Latihan dinamis untuk quadriceps dan glutes.",
+      "instructions": [
+        "Langkahkan satu kaki ke depan.",
+        "Turunkan lutut belakang hampir menyentuh lantai.",
+        "Dorong ke depan dan lanjutkan kaki berikutnya."
+      ],
+      "warning": "Jaga lutut depan tidak melewati jari kaki."
+    },
+    {
+      "name": "Bulgarian Split Squat",
+      "sets": 3,
+      "reps": 10,
+      "rest_seconds": 60,
+      "description": "Variasi squat dengan satu kaki diangkat untuk menargetkan quadriceps.",
+      "instructions": [
+        "Letakkan kaki belakang di bangku.",
+        "Turunkan tubuh hingga lutut belakang hampir menyentuh lantai.",
+        "Dorong kembali ke posisi awal."
+      ],
+      "warning": "Jaga keseimbangan selama gerakan."
+    },
+    {
+      "name": "Step-Up",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Latihan sederhana untuk quadriceps dan stabilitas.",
+      "instructions": [
+        "Naikkan satu kaki ke bangku atau box.",
+        "Dorong tubuh ke atas.",
+        "Turun perlahan dan ganti kaki."
+      ],
+      "warning": "Gunakan bangku yang kokoh."
+    },
+    {
+      "name": "Sissy Squat",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Squat unik untuk isolasi quadriceps.",
+      "instructions": [
+        "Berdiri tegak, pegang pegangan untuk keseimbangan.",
+        "Condongkan tubuh ke belakang sambil menekuk lutut.",
+        "Kembali ke posisi awal."
+      ],
+      "warning": "Gunakan gerakan perlahan untuk keamanan."
+    },
+    {
+      "name": "Hack Squat Machine",
+      "sets": 3,
+      "reps": 10,
+      "rest_seconds": 90,
+      "description": "Squat menggunakan mesin hack squat.",
+      "instructions": [
+        "Posisikan bahu di bawah bantalan mesin.",
+        "Turunkan tubuh hingga lutut 90 derajat.",
+        "Dorong kembali ke posisi awal."
+      ],
+      "warning": "Jangan mengunci lutut di atas."
+    },
+    {
+      "name": "Smith Machine Squat",
+      "sets": 3,
+      "reps": 10,
+      "rest_seconds": 90,
+      "description": "Squat dengan bantuan mesin smith untuk stabilitas.",
+      "instructions": [
+        "Posisikan bar smith di punggung atas.",
+        "Turunkan tubuh hingga lutut 90 derajat.",
+        "Dorong kembali ke posisi awal."
+      ],
+      "warning": "Jangan terlalu maju atau mundur dari garis beban."
+    },
+    {
+      "name": "Goblet Squat",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Squat dengan dumbbell atau kettlebell di depan dada.",
+      "instructions": [
+        "Pegang beban di depan dada.",
+        "Turunkan tubuh hingga paha sejajar lantai.",
+        "Dorong kembali ke posisi awal."
+      ],
+      "warning": "Jaga dada tetap tegak."
+    },
+    {
+      "name": "Cyclist Squat",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Squat dengan tumit diangkat untuk fokus pada quadriceps.",
+      "instructions": [
+        "Letakkan tumit di atas pelat kecil.",
+        "Turunkan tubuh hingga paha sejajar lantai.",
+        "Dorong kembali ke posisi awal."
+      ],
+      "warning": "Gunakan beban ringan hingga sedang."
+    },
+    {
+      "name": "Wall Sit",
+      "sets": 3,
+      "reps": 45,
+      "rest_seconds": 45,
+      "description": "Latihan isometrik untuk quadriceps.",
+      "instructions": [
+        "Bersandar pada dinding.",
+        "Turunkan hingga lutut 90 derajat.",
+        "Tahan posisi sesuai waktu yang ditentukan."
+      ],
+      "warning": "Jaga punggung rata dengan dinding."
+    },
+    {
+      "name": "Reverse Lunge",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Variasi lunge mundur untuk mengurangi tekanan pada lutut.",
+      "instructions": [
+        "Langkahkan kaki ke belakang.",
+        "Turunkan lutut belakang hampir menyentuh lantai.",
+        "Dorong kembali ke posisi awal."
+      ],
+      "warning": "Jaga lutut depan tetap stabil."
+    },
+    {
+      "name": "Box Jump",
+      "sets": 3,
+      "reps": 10,
+      "rest_seconds": 60,
+      "description": "Plyometric untuk kekuatan ledakan quadriceps.",
+      "instructions": [
+        "Berdiri di depan box.",
+        "Lompat dan mendarat dengan lutut sedikit ditekuk.",
+        "Turun perlahan."
+      ],
+      "warning": "Gunakan box yang stabil dan sesuai tinggi."
+    },
+    {
+      "name": "Heel Elevated Squat",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Squat dengan tumit diangkat untuk fokus penuh pada quadriceps.",
+      "instructions": [
+        "Letakkan tumit di atas pelat kecil.",
+        "Turunkan tubuh perlahan.",
+        "Dorong kembali ke posisi awal."
+      ],
+      "warning": "Jaga punggung netral."
+    }
+  ]
+}

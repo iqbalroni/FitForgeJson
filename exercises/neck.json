@@ -1,0 +1,200 @@
+{
+  "muscle_group": "Neck",
+  "exercises": [
+    {
+      "name": "Neck Flexion (Bodyweight)",
+      "sets": 3,
+      "reps": 15,
+      "rest_seconds": 45,
+      "description": "Melatih otot leher bagian depan dengan berat tubuh.",
+      "instructions": [
+        "Berbaring telentang tanpa bantal.",
+        "Tekuk dagu ke arah dada.",
+        "Kembali ke posisi awal perlahan."
+      ],
+      "warning": "Hindari gerakan mendadak."
+    },
+    {
+      "name": "Neck Extension (Bodyweight)",
+      "sets": 3,
+      "reps": 15,
+      "rest_seconds": 45,
+      "description": "Melatih otot leher bagian belakang.",
+      "instructions": [
+        "Berbaring tengkurap.",
+        "Angkat kepala perlahan ke atas.",
+        "Turunkan kembali."
+      ],
+      "warning": "Jangan menekan leher berlebihan."
+    },
+    {
+      "name": "Side Neck Flexion",
+      "sets": 3,
+      "reps": 15,
+      "rest_seconds": 45,
+      "description": "Melatih otot leher samping.",
+      "instructions": [
+        "Duduk tegak.",
+        "Miringkan kepala ke satu sisi.",
+        "Kembali ke tengah, lalu ganti sisi."
+      ],
+      "warning": "Hindari gerakan cepat."
+    },
+    {
+      "name": "Neck Isometric Hold (Front)",
+      "sets": 3,
+      "reps": 20,
+      "rest_seconds": 45,
+      "description": "Menahan tekanan di bagian depan leher.",
+      "instructions": [
+        "Letakkan telapak tangan di dahi.",
+        "Dorong kepala ke depan sambil menahan dengan tangan.",
+        "Tahan selama hitungan yang ditentukan."
+      ],
+      "warning": "Jangan menahan napas."
+    },
+    {
+      "name": "Neck Isometric Hold (Back)",
+      "sets": 3,
+      "reps": 20,
+      "rest_seconds": 45,
+      "description": "Menahan tekanan di bagian belakang leher.",
+      "instructions": [
+        "Letakkan tangan di belakang kepala.",
+        "Dorong kepala ke belakang sambil menahan dengan tangan.",
+        "Tahan sesuai waktu yang ditentukan."
+      ],
+      "warning": "Gunakan tekanan ringan."
+    },
+    {
+      "name": "Neck Isometric Hold (Side)",
+      "sets": 3,
+      "reps": 20,
+      "rest_seconds": 45,
+      "description": "Menahan tekanan di sisi leher.",
+      "instructions": [
+        "Letakkan tangan di sisi kepala.",
+        "Dorong kepala ke arah tangan.",
+        "Tahan beberapa detik, ganti sisi."
+      ],
+      "warning": "Jangan menekan terlalu keras."
+    },
+    {
+      "name": "Weighted Neck Flexion",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Latihan leher depan dengan beban tambahan.",
+      "instructions": [
+        "Gunakan harness leher.",
+        "Tarik kepala ke depan melawan beban.",
+        "Kembali perlahan."
+      ],
+      "warning": "Gunakan beban ringan dulu."
+    },
+    {
+      "name": "Weighted Neck Extension",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Latihan leher belakang dengan beban.",
+      "instructions": [
+        "Gunakan harness leher.",
+        "Tarik kepala ke belakang melawan beban.",
+        "Kembali perlahan."
+      ],
+      "warning": "Jangan gunakan gerakan cepat."
+    },
+    {
+      "name": "Weighted Side Neck Flexion",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Latihan leher samping dengan beban.",
+      "instructions": [
+        "Gunakan harness atau resistance band.",
+        "Tarik kepala ke samping melawan beban.",
+        "Kembali perlahan."
+      ],
+      "warning": "Kontrol gerakan."
+    },
+    {
+      "name": "Resistance Band Neck Flexion",
+      "sets": 3,
+      "reps": 15,
+      "rest_seconds": 45,
+      "description": "Menggunakan resistance band untuk melatih leher depan.",
+      "instructions": [
+        "Pasang band di belakang kepala.",
+        "Tarik kepala ke depan melawan band.",
+        "Kembali perlahan."
+      ],
+      "warning": "Gunakan resistensi sedang."
+    },
+    {
+      "name": "Resistance Band Neck Extension",
+      "sets": 3,
+      "reps": 15,
+      "rest_seconds": 45,
+      "description": "Menggunakan resistance band untuk melatih leher belakang.",
+      "instructions": [
+        "Pasang band di depan kepala.",
+        "Dorong kepala ke belakang melawan band.",
+        "Kembali perlahan."
+      ],
+      "warning": "Jaga leher tetap stabil."
+    },
+    {
+      "name": "Resistance Band Side Neck Flexion",
+      "sets": 3,
+      "reps": 15,
+      "rest_seconds": 45,
+      "description": "Menggunakan resistance band untuk leher samping.",
+      "instructions": [
+        "Pasang band di sisi kepala.",
+        "Tarik kepala melawan band.",
+        "Kembali perlahan."
+      ],
+      "warning": "Hindari gerakan mendadak."
+    },
+    {
+      "name": "Neck Bridge (Wrestler Bridge)",
+      "sets": 3,
+      "reps": 10,
+      "rest_seconds": 90,
+      "description": "Latihan intens untuk kekuatan leher.",
+      "instructions": [
+        "Berbaring telentang, kaki menekuk.",
+        "Angkat pinggul dan letakkan beban di kepala bagian belakang.",
+        "Tahan posisi lalu kembali perlahan."
+      ],
+      "warning": "Hanya untuk yang berpengalaman."
+    },
+    {
+      "name": "Front Neck Bridge",
+      "sets": 3,
+      "reps": 10,
+      "rest_seconds": 90,
+      "description": "Variasi neck bridge untuk otot depan leher.",
+      "instructions": [
+        "Berbaring tengkurap.",
+        "Letakkan kepala di lantai dan dorong tubuh dengan leher.",
+        "Tahan lalu kembali perlahan."
+      ],
+      "warning": "Gunakan matras untuk kenyamanan."
+    },
+    {
+      "name": "Shrug with Neck Focus",
+      "sets": 3,
+      "reps": 15,
+      "rest_seconds": 60,
+      "description": "Shrug ringan dengan fokus aktivasi leher.",
+      "instructions": [
+        "Pegang dumbbell ringan.",
+        "Angkat bahu dan kontraksikan leher.",
+        "Turunkan perlahan."
+      ],
+      "warning": "Jangan gunakan beban berat."
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "muscle_group": "Hamstrings",
+  "exercises": [
+    {
+      "name": "Romanian Deadlift",
+      "sets": 4,
+      "reps": 10,
+      "rest_seconds": 90,
+      "description": "Latihan utama untuk memperkuat hamstrings dan glutes.",
+      "instructions": [
+        "Pegang barbel di depan paha.",
+        "Tekuk pinggul ke belakang sambil menjaga punggung netral.",
+        "Turunkan barbel hingga betis lalu kembali berdiri."
+      ],
+      "warning": "Jangan membulatkan punggung."
+    },
+    {
+      "name": "Lying Leg Curl Machine",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Mesin isolasi untuk hamstrings.",
+      "instructions": [
+        "Berbaring tengkurap di mesin leg curl.",
+        "Kaitkan pergelangan kaki pada bantalan.",
+        "Tekuk lutut untuk mengangkat beban."
+      ],
+      "warning": "Jangan mengangkat pinggul dari bantalan."
+    },
+    {
+      "name": "Seated Leg Curl Machine",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Variasi leg curl dalam posisi duduk.",
+      "instructions": [
+        "Duduk di mesin leg curl.",
+        "Kaitkan pergelangan kaki pada bantalan.",
+        "Tarik beban ke bawah dengan kaki."
+      ],
+      "warning": "Jangan hentak gerakan."
+    },
+    {
+      "name": "Glute-Ham Raise",
+      "sets": 3,
+      "reps": 8,
+      "rest_seconds": 90,
+      "description": "Latihan berat bodyweight untuk hamstrings.",
+      "instructions": [
+        "Kaitkan kaki di mesin GHD.",
+        "Turunkan tubuh perlahan ke depan.",
+        "Tarik kembali ke posisi awal."
+      ],
+      "warning": "Gunakan tangan untuk bantuan jika perlu."
+    },
+    {
+      "name": "Single-Leg Romanian Deadlift",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Variasi unilateral untuk keseimbangan dan kekuatan hamstrings.",
+      "instructions": [
+        "Pegang dumbbell di satu tangan.",
+        "Angkat kaki berlawanan ke belakang sambil menurunkan beban.",
+        "Kembali berdiri."
+      ],
+      "warning": "Jaga pinggul tetap sejajar."
+    },
+    {
+      "name": "Cable Pull-Through",
+      "sets": 3,
+      "reps": 15,
+      "rest_seconds": 60,
+      "description": "Gerakan hip hinge untuk hamstrings dan glutes.",
+      "instructions": [
+        "Berdiri membelakangi mesin kabel.",
+        "Pegang handle di antara kaki.",
+        "Dorong pinggul ke depan."
+      ],
+      "warning": "Gunakan beban sedang untuk kontrol penuh."
+    },
+    {
+      "name": "Nordic Hamstring Curl",
+      "sets": 3,
+      "reps": 6,
+      "rest_seconds": 90,
+      "description": "Latihan eksentrik berat untuk hamstrings.",
+      "instructions": [
+        "Kaitkan kaki di bawah penahan.",
+        "Turunkan tubuh perlahan ke depan.",
+        "Dorong kembali ke posisi awal."
+      ],
+      "warning": "Gunakan matras untuk melindungi lutut."
+    },
+    {
+      "name": "Kettlebell Swing",
+      "sets": 3,
+      "reps": 15,
+      "rest_seconds": 60,
+      "description": "Latihan eksplosif yang mengaktifkan hamstrings.",
+      "instructions": [
+        "Pegang kettlebell dengan kedua tangan.",
+        "Dorong pinggul ke belakang lalu ke depan.",
+        "Ayunkan kettlebell hingga setinggi dada."
+      ],
+      "warning": "Fokus pada dorongan pinggul, bukan lengan."
+    },
+    {
+      "name": "Good Morning",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Latihan hip hinge dengan barbel di punggung atas.",
+      "instructions": [
+        "Letakkan barbel di punggung atas.",
+        "Tekuk pinggul ke depan hingga punggung sejajar lantai.",
+        "Kembali berdiri."
+      ],
+      "warning": "Gunakan beban ringan jika baru mulai."
+    },
+    {
+      "name": "Swiss Ball Hamstring Curl",
+      "sets": 3,
+      "reps": 15,
+      "rest_seconds": 45,
+      "description": "Menggunakan bola gym untuk isolasi hamstrings.",
+      "instructions": [
+        "Berbaring telentang, tumit di atas bola.",
+        "Tekuk lutut sambil menarik bola ke arah tubuh.",
+        "Luruskan kembali kaki."
+      ],
+      "warning": "Jaga pinggul tetap terangkat."
+    },
+    {
+      "name": "Reverse Hyperextension",
+      "sets": 3,
+      "reps": 15,
+      "rest_seconds": 60,
+      "description": "Latihan untuk hamstrings dan glutes di mesin khusus.",
+      "instructions": [
+        "Berbaring tengkurap di mesin reverse hyper.",
+        "Angkat kaki ke atas sejajar tubuh.",
+        "Turunkan perlahan."
+      ],
+      "warning": "Jangan menghentak gerakan."
+    },
+    {
+      "name": "Banded Leg Curl",
+      "sets": 3,
+      "reps": 15,
+      "rest_seconds": 45,
+      "description": "Leg curl menggunakan resistance band.",
+      "instructions": [
+        "Kaitkan resistance band di pergelangan kaki.",
+        "Tarik tumit ke arah bokong.",
+        "Kembali perlahan."
+      ],
+      "warning": "Kontrol gerakan sepanjang waktu."
+    },
+    {
+      "name": "Split Stance Romanian Deadlift",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Variasi RDL dengan satu kaki di depan untuk peregangan lebih.",
+      "instructions": [
+        "Posisikan satu kaki di depan dan satu di belakang.",
+        "Turunkan barbel sambil menjaga punggung netral.",
+        "Kembali berdiri."
+      ],
+      "warning": "Jaga lutut depan sedikit ditekuk."
+    },
+    {
+      "name": "Slider Hamstring Curl",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 45,
+      "description": "Menggunakan slider atau handuk untuk isolasi hamstrings.",
+      "instructions": [
+        "Berbaring telentang dengan kaki di slider.",
+        "Tarik tumit ke arah bokong.",
+        "Luruskan kembali kaki."
+      ],
+      "warning": "Jaga pinggul tetap terangkat."
+    },
+    {
+      "name": "Stability Ball Hip Raise and Curl",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 45,
+      "description": "Menggabungkan hip raise dan leg curl di bola gym.",
+      "instructions": [
+        "Berbaring telentang dengan tumit di atas bola.",
+        "Angkat pinggul, lalu tekuk lutut menarik bola ke arah tubuh.",
+        "Luruskan kembali kaki dan turunkan pinggul."
+      ],
+      "warning": "Gunakan bola yang tidak licin."
+    }
+  ]
+}

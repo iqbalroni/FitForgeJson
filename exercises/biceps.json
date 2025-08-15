@@ -1,0 +1,200 @@
+{
+  "muscle_group": "Biceps",
+  "exercises": [
+    {
+      "name": "Barbell Curl",
+      "sets": 4,
+      "reps": 10,
+      "rest_seconds": 60,
+      "description": "Latihan dasar untuk mengembangkan otot biceps.",
+      "instructions": [
+        "Pegang barbel dengan telapak tangan menghadap ke atas.",
+        "Tekuk siku untuk mengangkat barbel ke arah bahu.",
+        "Turunkan perlahan ke posisi awal."
+      ],
+      "warning": "Jangan mengayunkan tubuh saat mengangkat beban."
+    },
+    {
+      "name": "Dumbbell Curl",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Variasi curl menggunakan dumbbell.",
+      "instructions": [
+        "Pegang dumbbell di kedua tangan.",
+        "Angkat dumbbell secara bergantian atau bersamaan.",
+        "Turunkan perlahan."
+      ],
+      "warning": "Jaga siku tetap di sisi tubuh."
+    },
+    {
+      "name": "Hammer Curl",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Latihan biceps dengan pegangan netral untuk menargetkan brachialis.",
+      "instructions": [
+        "Pegang dumbbell dengan telapak tangan saling berhadapan.",
+        "Tekuk siku untuk mengangkat beban.",
+        "Turunkan perlahan."
+      ],
+      "warning": "Jangan mengunci siku di posisi bawah."
+    },
+    {
+      "name": "Concentration Curl",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Isolasi biceps dengan dumbbell.",
+      "instructions": [
+        "Duduk di bangku dan condongkan tubuh sedikit ke depan.",
+        "Letakkan siku di paha bagian dalam.",
+        "Angkat dumbbell ke arah bahu dan turunkan perlahan."
+      ],
+      "warning": "Gunakan beban sedang untuk kontrol gerakan."
+    },
+    {
+      "name": "Preacher Curl",
+      "sets": 3,
+      "reps": 10,
+      "rest_seconds": 60,
+      "description": "Mengisolasi biceps menggunakan bangku preacher.",
+      "instructions": [
+        "Duduk di bangku preacher dan pegang barbel atau EZ bar.",
+        "Angkat beban ke arah bahu.",
+        "Turunkan perlahan."
+      ],
+      "warning": "Jangan mengunci siku di posisi bawah."
+    },
+    {
+      "name": "Cable Curl",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Biceps curl menggunakan mesin kabel untuk ketegangan konstan.",
+      "instructions": [
+        "Pegang handle mesin kabel bawah.",
+        "Angkat ke arah bahu.",
+        "Turunkan perlahan."
+      ],
+      "warning": "Jaga posisi tubuh tetap tegak."
+    },
+    {
+      "name": "Incline Dumbbell Curl",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Variasi curl dengan bangku incline untuk peregangan maksimal biceps.",
+      "instructions": [
+        "Duduk di bangku incline.",
+        "Pegang dumbbell di kedua tangan.",
+        "Angkat ke arah bahu."
+      ],
+      "warning": "Jangan mengangkat bahu saat mengangkat beban."
+    },
+    {
+      "name": "Zottman Curl",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Menggabungkan curl dan reverse curl.",
+      "instructions": [
+        "Lakukan dumbbell curl biasa.",
+        "Putar pergelangan tangan ke posisi pronasi di atas.",
+        "Turunkan perlahan."
+      ],
+      "warning": "Gunakan beban ringan untuk kontrol rotasi."
+    },
+    {
+      "name": "Reverse Curl",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Latihan biceps dan brachioradialis.",
+      "instructions": [
+        "Pegang barbel dengan telapak tangan menghadap bawah.",
+        "Angkat ke arah bahu.",
+        "Turunkan perlahan."
+      ],
+      "warning": "Gunakan beban sedang untuk menjaga form."
+    },
+    {
+      "name": "21s Biceps Curl",
+      "sets": 3,
+      "reps": 21,
+      "rest_seconds": 90,
+      "description": "Teknik biceps curl dengan 7 reps separuh bawah, 7 reps separuh atas, dan 7 reps penuh.",
+      "instructions": [
+        "Lakukan 7 reps dari posisi bawah ke tengah.",
+        "Lanjutkan 7 reps dari tengah ke atas.",
+        "Akhiri dengan 7 reps penuh."
+      ],
+      "warning": "Gunakan beban ringan karena volume tinggi."
+    },
+    {
+      "name": "Spider Curl",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Latihan isolasi biceps di bangku incline menghadap ke depan.",
+      "instructions": [
+        "Berbaring tengkurap di bangku incline.",
+        "Pegang dumbbell atau barbel.",
+        "Angkat beban ke arah bahu dan turunkan perlahan."
+      ],
+      "warning": "Gunakan beban ringan untuk menjaga kontrol."
+    },
+    {
+      "name": "Overhead Cable Curl",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Biceps curl dari posisi kabel tinggi.",
+      "instructions": [
+        "Berdiri di tengah dua pulley tinggi.",
+        "Pegang handle dengan telapak tangan menghadap ke atas.",
+        "Tarik ke arah kepala."
+      ],
+      "warning": "Pastikan posisi tubuh stabil."
+    },
+    {
+      "name": "Resistance Band Curl",
+      "sets": 3,
+      "reps": 15,
+      "rest_seconds": 45,
+      "description": "Variasi curl dengan resistance band.",
+      "instructions": [
+        "Injak resistance band dengan kedua kaki.",
+        "Pegang pegangan dan tarik ke arah bahu.",
+        "Kembali perlahan ke posisi awal."
+      ],
+      "warning": "Jangan melepaskan band dengan tiba-tiba."
+    },
+    {
+      "name": "One Arm Cable Curl",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 45,
+      "description": "Isolasi satu lengan biceps dengan kabel.",
+      "instructions": [
+        "Pegang handle kabel bawah dengan satu tangan.",
+        "Tarik ke arah bahu.",
+        "Turunkan perlahan."
+      ],
+      "warning": "Jangan memutar tubuh saat menarik."
+    },
+    {
+      "name": "Drag Curl",
+      "sets": 3,
+      "reps": 10,
+      "rest_seconds": 60,
+      "description": "Variasi barbell curl dengan barbel ditarik dekat tubuh.",
+      "instructions": [
+        "Pegang barbel dengan telapak tangan menghadap ke atas.",
+        "Tarik barbel ke atas sambil menjaga siku di belakang tubuh.",
+        "Turunkan perlahan."
+      ],
+      "warning": "Jangan condongkan tubuh terlalu jauh ke belakang."
+    }
+  ]
+}

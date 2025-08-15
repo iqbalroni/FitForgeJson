@@ -1,0 +1,200 @@
+{
+  "muscle_group": "Trapezius",
+  "exercises": [
+    {
+      "name": "Barbell Shrug",
+      "sets": 4,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Latihan utama untuk memperkuat otot trapezius bagian atas.",
+      "instructions": [
+        "Pegang barbel di depan paha.",
+        "Angkat bahu setinggi mungkin.",
+        "Tahan sebentar lalu turunkan."
+      ],
+      "warning": "Jangan memutar bahu."
+    },
+    {
+      "name": "Dumbbell Shrug",
+      "sets": 4,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Variasi shrug menggunakan dumbbell.",
+      "instructions": [
+        "Pegang dumbbell di sisi tubuh.",
+        "Angkat bahu setinggi mungkin.",
+        "Turunkan perlahan."
+      ],
+      "warning": "Jaga punggung tetap tegak."
+    },
+    {
+      "name": "Smith Machine Shrug",
+      "sets": 4,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Shrug menggunakan mesin Smith untuk stabilitas.",
+      "instructions": [
+        "Pegang bar Smith di depan paha.",
+        "Angkat bahu setinggi mungkin.",
+        "Turunkan perlahan."
+      ],
+      "warning": "Gunakan beban yang terkontrol."
+    },
+    {
+      "name": "Cable Upright Row",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Menargetkan trapezius dengan gerakan tarik vertikal.",
+      "instructions": [
+        "Pegang handle kabel di posisi rendah.",
+        "Tarik ke arah dagu.",
+        "Turunkan perlahan."
+      ],
+      "warning": "Jangan gunakan beban terlalu berat."
+    },
+    {
+      "name": "Barbell Upright Row",
+      "sets": 3,
+      "reps": 10,
+      "rest_seconds": 60,
+      "description": "Melatih trapezius dan deltoid.",
+      "instructions": [
+        "Pegang barbel dengan jarak selebar bahu.",
+        "Tarik ke arah dagu.",
+        "Turunkan perlahan."
+      ],
+      "warning": "Hindari gerakan terlalu tinggi."
+    },
+    {
+      "name": "Face Pull",
+      "sets": 3,
+      "reps": 15,
+      "rest_seconds": 60,
+      "description": "Latihan untuk trapezius tengah dan belakang bahu.",
+      "instructions": [
+        "Gunakan tali di mesin kabel setinggi wajah.",
+        "Tarik ke arah wajah dengan siku keluar.",
+        "Tahan lalu kembali perlahan."
+      ],
+      "warning": "Jangan memiringkan punggung."
+    },
+    {
+      "name": "Farmer's Walk",
+      "sets": 3,
+      "reps": 30,
+      "rest_seconds": 60,
+      "description": "Melatih kekuatan trapezius dan grip.",
+      "instructions": [
+        "Pegang dumbbell atau kettlebell di kedua sisi.",
+        "Berjalan lurus sejauh yang ditentukan.",
+        "Jaga bahu tetap tegak."
+      ],
+      "warning": "Gunakan berat yang menantang tapi aman."
+    },
+    {
+      "name": "Rack Pull",
+      "sets": 4,
+      "reps": 8,
+      "rest_seconds": 90,
+      "description": "Deadlift parsial untuk trapezius dan punggung atas.",
+      "instructions": [
+        "Posisikan bar di rak setinggi lutut.",
+        "Tarik beban ke posisi berdiri.",
+        "Turunkan perlahan."
+      ],
+      "warning": "Jaga punggung tetap netral."
+    },
+    {
+      "name": "Power Shrug",
+      "sets": 3,
+      "reps": 10,
+      "rest_seconds": 90,
+      "description": "Variasi shrug dengan dorongan eksplosif.",
+      "instructions": [
+        "Pegang barbel di depan paha.",
+        "Gunakan pinggul sedikit untuk memberi tenaga.",
+        "Angkat bahu dengan cepat lalu turunkan."
+      ],
+      "warning": "Kontrol beban saat menurunkan."
+    },
+    {
+      "name": "Overhead Barbell Shrug",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Shrug dengan barbel di posisi overhead.",
+      "instructions": [
+        "Angkat barbel ke posisi overhead.",
+        "Angkat bahu ke atas.",
+        "Turunkan perlahan."
+      ],
+      "warning": "Gunakan beban ringan."
+    },
+    {
+      "name": "Incline Dumbbell Shrug",
+      "sets": 3,
+      "reps": 15,
+      "rest_seconds": 60,
+      "description": "Shrug di bangku incline untuk trapezius tengah.",
+      "instructions": [
+        "Berbaring tengkurap di bangku incline.",
+        "Pegang dumbbell di bawah bahu.",
+        "Angkat bahu ke atas."
+      ],
+      "warning": "Jangan mengayun dumbbell."
+    },
+    {
+      "name": "Y Raise",
+      "sets": 3,
+      "reps": 15,
+      "rest_seconds": 45,
+      "description": "Gerakan membentuk huruf Y untuk trapezius atas.",
+      "instructions": [
+        "Berbaring tengkurap di bangku incline.",
+        "Angkat lengan membentuk huruf Y.",
+        "Tahan lalu turunkan perlahan."
+      ],
+      "warning": "Gunakan beban ringan."
+    },
+    {
+      "name": "Scapular Pull-Up",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Pull-up tanpa menekuk siku, fokus pada gerakan scapula.",
+      "instructions": [
+        "Gantung di pull-up bar.",
+        "Tarik bahu ke bawah dan ke belakang.",
+        "Kembali ke posisi awal."
+      ],
+      "warning": "Jangan menekuk siku."
+    },
+    {
+      "name": "Cable Shrug",
+      "sets": 3,
+      "reps": 15,
+      "rest_seconds": 60,
+      "description": "Shrug dengan ketegangan konstan dari mesin kabel.",
+      "instructions": [
+        "Pegang handle kabel di posisi bawah.",
+        "Angkat bahu setinggi mungkin.",
+        "Turunkan perlahan."
+      ],
+      "warning": "Gunakan beban sedang."
+    },
+    {
+      "name": "Kettlebell High Pull",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Tarikan kettlebell ke arah dagu untuk trapezius.",
+      "instructions": [
+        "Pegang kettlebell di depan paha.",
+        "Tarik ke arah dagu dengan siku keluar.",
+        "Turunkan perlahan."
+      ],
+      "warning": "Jaga punggung tetap tegak."
+    }
+  ]
+}

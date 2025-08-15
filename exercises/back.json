@@ -1,0 +1,200 @@
+{
+  "muscle_group": "Back",
+  "exercises": [
+    {
+      "name": "Pull-Up",
+      "sets": 4,
+      "reps": 8,
+      "rest_seconds": 90,
+      "description": "Latihan berat badan untuk menguatkan punggung atas.",
+      "instructions": [
+        "Gantung di palang dengan telapak tangan menghadap ke depan.",
+        "Tarik tubuh hingga dagu melewati palang.",
+        "Turunkan perlahan ke posisi awal."
+      ],
+      "warning": "Gunakan bantuan resistance band jika belum mampu melakukan pull-up penuh."
+    },
+    {
+      "name": "Chin-Up",
+      "sets": 4,
+      "reps": 8,
+      "rest_seconds": 90,
+      "description": "Mirip pull-up namun telapak tangan menghadap ke arah tubuh, menargetkan biceps juga.",
+      "instructions": [
+        "Gantung di palang dengan telapak tangan menghadap ke tubuh.",
+        "Tarik tubuh hingga dagu melewati palang.",
+        "Turunkan perlahan."
+      ],
+      "warning": "Hindari gerakan mengayun untuk menjaga efektivitas latihan."
+    },
+    {
+      "name": "Barbell Row",
+      "sets": 4,
+      "reps": 10,
+      "rest_seconds": 90,
+      "description": "Latihan punggung tengah dengan barbel.",
+      "instructions": [
+        "Berdiri condong ke depan dengan lutut sedikit ditekuk.",
+        "Tarik barbel ke arah perut.",
+        "Turunkan perlahan."
+      ],
+      "warning": "Jaga punggung tetap lurus untuk mencegah cedera."
+    },
+    {
+      "name": "Dumbbell Row",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 90,
+      "description": "Variasi row menggunakan dumbbell untuk fokus unilateral.",
+      "instructions": [
+        "Letakkan satu lutut di bangku.",
+        "Tarik dumbbell ke arah pinggang.",
+        "Kembali perlahan ke posisi awal."
+      ],
+      "warning": "Jangan memutar badan saat menarik dumbbell."
+    },
+    {
+      "name": "Seated Cable Row",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Latihan punggung tengah menggunakan mesin kabel.",
+      "instructions": [
+        "Duduk di mesin kabel.",
+        "Tarik pegangan ke arah perut.",
+        "Lepaskan perlahan."
+      ],
+      "warning": "Jangan membungkuk berlebihan saat menarik."
+    },
+    {
+      "name": "Lat Pulldown",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Melatih latissimus dorsi menggunakan mesin kabel.",
+      "instructions": [
+        "Duduk di mesin lat pulldown.",
+        "Tarik batang ke bawah hingga menyentuh dada.",
+        "Lepaskan perlahan."
+      ],
+      "warning": "Jangan menarik batang di belakang leher untuk menghindari cedera bahu."
+    },
+    {
+      "name": "T-Bar Row",
+      "sets": 3,
+      "reps": 10,
+      "rest_seconds": 90,
+      "description": "Latihan punggung tengah dengan beban berat.",
+      "instructions": [
+        "Pegang pegangan T-Bar.",
+        "Tarik ke arah dada.",
+        "Turunkan perlahan."
+      ],
+      "warning": "Gunakan sabuk angkat beban jika perlu."
+    },
+    {
+      "name": "Inverted Row",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Latihan berat badan untuk punggung atas.",
+      "instructions": [
+        "Berbaring di bawah palang.",
+        "Tarik dada ke arah palang.",
+        "Turunkan perlahan."
+      ],
+      "warning": "Jaga tubuh tetap lurus selama gerakan."
+    },
+    {
+      "name": "Deadlift",
+      "sets": 4,
+      "reps": 6,
+      "rest_seconds": 120,
+      "description": "Latihan compound untuk seluruh punggung dan posterior chain.",
+      "instructions": [
+        "Berdiri dengan kaki selebar bahu.",
+        "Pegang barbel di depan kaki.",
+        "Angkat dengan punggung lurus."
+      ],
+      "warning": "Gunakan teknik yang benar untuk mencegah cedera."
+    },
+    {
+      "name": "Rack Pull",
+      "sets": 4,
+      "reps": 8,
+      "rest_seconds": 120,
+      "description": "Variasi deadlift dengan range gerak lebih pendek.",
+      "instructions": [
+        "Atur barbel di rak setinggi lutut.",
+        "Angkat hingga berdiri tegak.",
+        "Turunkan perlahan."
+      ],
+      "warning": "Tetap jaga punggung lurus."
+    },
+    {
+      "name": "Single Arm Cable Row",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Isolasi punggung tengah secara unilateral.",
+      "instructions": [
+        "Gunakan pegangan tunggal di mesin kabel.",
+        "Tarik ke arah tubuh.",
+        "Lepaskan perlahan."
+      ],
+      "warning": "Hindari memutar tubuh."
+    },
+    {
+      "name": "Kroc Row",
+      "sets": 3,
+      "reps": 15,
+      "rest_seconds": 90,
+      "description": "Variasi dumbbell row dengan repetisi tinggi.",
+      "instructions": [
+        "Pegang dumbbell berat.",
+        "Tarik ke arah pinggang dengan cepat namun terkendali.",
+        "Turunkan perlahan."
+      ],
+      "warning": "Gunakan beban yang aman."
+    },
+    {
+      "name": "Reverse Fly",
+      "sets": 3,
+      "reps": 15,
+      "rest_seconds": 60,
+      "description": "Melatih punggung atas dan rear deltoid.",
+      "instructions": [
+        "Pegang dumbbell ringan.",
+        "Angkat ke samping sambil tubuh condong ke depan.",
+        "Turunkan perlahan."
+      ],
+      "warning": "Gunakan beban ringan untuk menjaga bentuk."
+    },
+    {
+      "name": "Renegade Row",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Latihan punggung sekaligus core.",
+      "instructions": [
+        "Mulai dari posisi plank dengan dumbbell.",
+        "Tarik satu dumbbell ke arah tubuh.",
+        "Turunkan perlahan dan ganti sisi."
+      ],
+      "warning": "Jaga pinggul tetap sejajar."
+    },
+    {
+      "name": "Machine Row",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Latihan punggung tengah dengan mesin.",
+      "instructions": [
+        "Duduk di mesin row.",
+        "Tarik pegangan ke arah perut.",
+        "Lepaskan perlahan."
+      ],
+      "warning": "Sesuaikan kursi agar posisi pegangan sejajar dada."
+    }
+  ]
+}

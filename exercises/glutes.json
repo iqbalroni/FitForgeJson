@@ -1,0 +1,199 @@
+{
+  "muscle_group": "Glutes",
+  "exercises": [
+    {
+      "name": "Barbell Hip Thrust",
+      "sets": 4,
+      "reps": 12,
+      "rest_seconds": 90,
+      "description": "Latihan utama untuk membangun kekuatan glutes.",
+      "instructions": [
+        "Duduk di lantai dengan punggung atas bersandar pada bangku.",
+        "Letakkan barbel di pinggul.",
+        "Dorong pinggul ke atas hingga sejajar bahu dan lutut."
+      ],
+      "warning": "Gunakan bantalan untuk kenyamanan pinggul."
+    },
+    {
+      "name": "Glute Bridge",
+      "sets": 3,
+      "reps": 15,
+      "rest_seconds": 60,
+      "description": "Versi sederhana hip thrust tanpa beban.",
+      "instructions": [
+        "Berbaring telentang dengan lutut ditekuk.",
+        "Dorong pinggul ke atas.",
+        "Tahan di atas sebelum kembali turun."
+      ],
+      "warning": "Jangan melengkungkan punggung bawah berlebihan."
+    },
+    {
+      "name": "Bulgarian Split Squat",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Latihan unilateral untuk glutes dan quads.",
+      "instructions": [
+        "Letakkan kaki belakang di bangku.",
+        "Turunkan tubuh hingga lutut depan 90 derajat.",
+        "Dorong kembali ke posisi awal."
+      ],
+      "warning": "Jaga keseimbangan dan lutut tidak melewati ujung jari."
+    },
+    {
+      "name": "Walking Lunge",
+      "sets": 3,
+      "reps": 20,
+      "rest_seconds": 60,
+      "description": "Lunge dengan gerakan berjalan untuk mengaktifkan glutes.",
+      "instructions": [
+        "Langkahkan kaki ke depan.",
+        "Turunkan tubuh ke posisi lunge.",
+        "Lanjutkan dengan kaki lainnya."
+      ],
+      "warning": "Jaga postur tegak."
+    },
+    {
+      "name": "Step-Up",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Latihan glutes dan quads dengan bangku atau box.",
+      "instructions": [
+        "Injak bangku dengan satu kaki.",
+        "Dorong tubuh ke atas.",
+        "Turun perlahan."
+      ],
+      "warning": "Gunakan bangku yang stabil."
+    },
+    {
+      "name": "Cable Pull-Through",
+      "sets": 3,
+      "reps": 15,
+      "rest_seconds": 60,
+      "description": "Melatih hip hinge untuk glutes.",
+      "instructions": [
+        "Berdiri membelakangi mesin kabel.",
+        "Pegang handle di antara kaki.",
+        "Dorong pinggul ke depan."
+      ],
+      "warning": "Jaga punggung tetap netral."
+    },
+    {
+      "name": "Sumo Deadlift",
+      "sets": 3,
+      "reps": 10,
+      "rest_seconds": 90,
+      "description": "Deadlift stance lebar untuk glutes.",
+      "instructions": [
+        "Posisikan kaki lebar.",
+        "Pegang barbel di depan.",
+        "Angkat dengan dorongan pinggul."
+      ],
+      "warning": "Jangan membungkuk terlalu banyak di punggung."
+    },
+    {
+      "name": "Kettlebell Swing",
+      "sets": 3,
+      "reps": 15,
+      "rest_seconds": 60,
+      "description": "Latihan eksplosif untuk glutes.",
+      "instructions": [
+        "Pegang kettlebell dengan kedua tangan.",
+        "Dorong pinggul ke belakang lalu ke depan untuk mengayun.",
+        "Biarkan kettlebell bergerak hingga setinggi dada."
+      ],
+      "warning": "Gunakan tenaga pinggul, bukan lengan."
+    },
+    {
+      "name": "Donkey Kick",
+      "sets": 3,
+      "reps": 15,
+      "rest_seconds": 45,
+      "description": "Bodyweight isolasi untuk glutes.",
+      "instructions": [
+        "Posisi merangkak.",
+        "Dorong satu kaki ke belakang dan atas.",
+        "Kembali ke posisi awal."
+      ],
+      "warning": "Jangan melengkungkan punggung bawah."
+    },
+    {
+      "name": "Fire Hydrant",
+      "sets": 3,
+      "reps": 15,
+      "rest_seconds": 45,
+      "description": "Mengaktifkan glute medius.",
+      "instructions": [
+        "Posisi merangkak.",
+        "Angkat lutut ke samping setinggi pinggul.",
+        "Turunkan perlahan."
+      ],
+      "warning": "Jaga pinggul tetap sejajar."
+    },
+    {
+      "name": "Banded Side Walk",
+      "sets": 3,
+      "reps": 20,
+      "rest_seconds": 45,
+      "description": "Melatih glute medius dengan resistance band.",
+      "instructions": [
+        "Letakkan resistance band di paha.",
+        "Berjalan menyamping dengan lutut sedikit ditekuk."
+      ],
+      "warning": "Jangan biarkan lutut masuk ke dalam."
+    },
+    {
+      "name": "Single-Leg Glute Bridge",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 45,
+      "description": "Isolasi glutes satu kaki.",
+      "instructions": [
+        "Berbaring telentang.",
+        "Angkat satu kaki lurus ke atas.",
+        "Dorong pinggul ke atas dengan kaki yang lain."
+      ],
+      "warning": "Jaga pinggul tetap sejajar."
+    },
+    {
+      "name": "Curtsy Lunge",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Variasi lunge yang menargetkan glutes.",
+      "instructions": [
+        "Silangkan kaki belakang di belakang kaki depan.",
+        "Turunkan tubuh hingga lutut hampir menyentuh lantai.",
+        "Kembali ke posisi awal."
+      ],
+      "warning": "Jaga lutut depan tetap stabil."
+    },
+    {
+      "name": "Reverse Lunge",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Lunge mundur untuk tekanan lebih pada glutes.",
+      "instructions": [
+        "Melangkah mundur dengan satu kaki.",
+        "Turunkan tubuh ke posisi lunge.",
+        "Dorong kembali ke posisi berdiri."
+      ],
+      "warning": "Jaga punggung tegak."
+    },
+    {
+      "name": "Hip Abduction Machine",
+      "sets": 3,
+      "reps": 15,
+      "rest_seconds": 45,
+      "description": "Mesin untuk glute medius.",
+      "instructions": [
+        "Duduk di mesin hip abduction.",
+        "Dorong bantalan ke luar sejauh mungkin.",
+        "Kembali perlahan."
+      ],
+      "warning": "Gunakan beban sedang untuk kontrol penuh."
+    }
+  ]
+}

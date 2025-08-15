@@ -1,0 +1,200 @@
+{
+  "muscle_group": "Calves",
+  "exercises": [
+    {
+      "name": "Standing Barbell Calf Raise",
+      "sets": 4,
+      "reps": 15,
+      "rest_seconds": 60,
+      "description": "Latihan berdiri untuk melatih gastrocnemius.",
+      "instructions": [
+        "Berdiri tegak dengan barbel di punggung atas.",
+        "Naikkan tumit setinggi mungkin.",
+        "Turunkan perlahan."
+      ],
+      "warning": "Jangan mengunci lutut."
+    },
+    {
+      "name": "Standing Dumbbell Calf Raise",
+      "sets": 4,
+      "reps": 15,
+      "rest_seconds": 60,
+      "description": "Variasi calf raise menggunakan dumbbell.",
+      "instructions": [
+        "Pegang dumbbell di kedua tangan.",
+        "Naikkan tumit setinggi mungkin.",
+        "Turunkan perlahan."
+      ],
+      "warning": "Gunakan bangku kecil untuk rentang gerak lebih besar."
+    },
+    {
+      "name": "Seated Calf Raise Machine",
+      "sets": 4,
+      "reps": 15,
+      "rest_seconds": 60,
+      "description": "Latihan fokus pada soleus dengan posisi duduk.",
+      "instructions": [
+        "Duduk di mesin calf raise.",
+        "Naikkan tumit setinggi mungkin.",
+        "Turunkan perlahan."
+      ],
+      "warning": "Gunakan beban sedang untuk kontrol gerakan."
+    },
+    {
+      "name": "Donkey Calf Raise",
+      "sets": 3,
+      "reps": 20,
+      "rest_seconds": 60,
+      "description": "Latihan unik untuk regangan maksimal calves.",
+      "instructions": [
+        "Condongkan tubuh ke depan dengan beban di punggung bawah.",
+        "Naikkan tumit setinggi mungkin.",
+        "Turunkan perlahan."
+      ],
+      "warning": "Gunakan bantuan partner atau mesin."
+    },
+    {
+      "name": "Single-Leg Calf Raise",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 45,
+      "description": "Melatih keseimbangan dan kekuatan betis.",
+      "instructions": [
+        "Berdiri di satu kaki.",
+        "Naikkan tumit setinggi mungkin.",
+        "Turunkan perlahan."
+      ],
+      "warning": "Pegang sesuatu untuk keseimbangan."
+    },
+    {
+      "name": "Smith Machine Calf Raise",
+      "sets": 4,
+      "reps": 15,
+      "rest_seconds": 60,
+      "description": "Calf raise menggunakan mesin smith.",
+      "instructions": [
+        "Posisikan bar smith di punggung atas.",
+        "Naikkan tumit setinggi mungkin.",
+        "Turunkan perlahan."
+      ],
+      "warning": "Gunakan blok kecil untuk range gerak optimal."
+    },
+    {
+      "name": "Leg Press Calf Raise",
+      "sets": 4,
+      "reps": 15,
+      "rest_seconds": 60,
+      "description": "Melatih betis di mesin leg press.",
+      "instructions": [
+        "Posisikan kaki di platform leg press.",
+        "Dorong dengan ujung kaki.",
+        "Turunkan perlahan."
+      ],
+      "warning": "Jangan mengunci lutut."
+    },
+    {
+      "name": "Jump Rope",
+      "sets": 3,
+      "reps": 100,
+      "rest_seconds": 60,
+      "description": "Latihan plyometric untuk betis.",
+      "instructions": [
+        "Pegang tali skipping.",
+        "Lompat dengan ritme cepat.",
+        "Gunakan ujung kaki untuk mendarat."
+      ],
+      "warning": "Gunakan sepatu olahraga untuk mengurangi benturan."
+    },
+    {
+      "name": "Box Jump Calf Focus",
+      "sets": 3,
+      "reps": 10,
+      "rest_seconds": 60,
+      "description": "Box jump dengan dorongan betis maksimal.",
+      "instructions": [
+        "Berdiri di depan box.",
+        "Gunakan ujung kaki untuk melompat.",
+        "Mendarat dengan lutut sedikit ditekuk."
+      ],
+      "warning": "Gunakan box stabil."
+    },
+    {
+      "name": "Farmer’s Walk on Toes",
+      "sets": 3,
+      "reps": 30,
+      "rest_seconds": 60,
+      "description": "Berjalan jinjit sambil membawa beban.",
+      "instructions": [
+        "Pegang dumbbell di kedua tangan.",
+        "Berjalan sambil jinjit.",
+        "Jaga tubuh tegak."
+      ],
+      "warning": "Gunakan beban sedang."
+    },
+    {
+      "name": "Weighted Calf Stretch",
+      "sets": 3,
+      "reps": 30,
+      "rest_seconds": 45,
+      "description": "Peregangan betis dengan beban.",
+      "instructions": [
+        "Berdiri di ujung step.",
+        "Turunkan tumit sejauh mungkin.",
+        "Tahan posisi."
+      ],
+      "warning": "Jangan memantul saat peregangan."
+    },
+    {
+      "name": "Running Sprints",
+      "sets": 8,
+      "reps": 30,
+      "rest_seconds": 90,
+      "description": "Lari sprint untuk kekuatan betis.",
+      "instructions": [
+        "Lari secepat mungkin 30 detik.",
+        "Istirahat singkat.",
+        "Ulangi."
+      ],
+      "warning": "Lakukan pemanasan sebelum mulai."
+    },
+    {
+      "name": "Tiptoe Hold",
+      "sets": 3,
+      "reps": 30,
+      "rest_seconds": 45,
+      "description": "Tahan posisi jinjit selama beberapa detik.",
+      "instructions": [
+        "Berdiri di ujung kaki.",
+        "Tahan posisi setinggi mungkin.",
+        "Turunkan perlahan."
+      ],
+      "warning": "Jaga keseimbangan."
+    },
+    {
+      "name": "Stair Calf Raise",
+      "sets": 4,
+      "reps": 15,
+      "rest_seconds": 60,
+      "description": "Latihan betis di anak tangga.",
+      "instructions": [
+        "Berdiri di tepi tangga.",
+        "Naikkan tumit setinggi mungkin.",
+        "Turunkan perlahan."
+      ],
+      "warning": "Gunakan pegangan untuk keamanan."
+    },
+    {
+      "name": "Banded Calf Raise",
+      "sets": 3,
+      "reps": 20,
+      "rest_seconds": 45,
+      "description": "Calf raise dengan resistance band.",
+      "instructions": [
+        "Letakkan resistance band di bahu dan pijak bagian bawah.",
+        "Naikkan tumit setinggi mungkin.",
+        "Turunkan perlahan."
+      ],
+      "warning": "Gunakan band dengan ketegangan sedang."
+    }
+  ]
+}

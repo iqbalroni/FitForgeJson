@@ -1,0 +1,197 @@
+{
+  "muscle_group": "Forearms",
+  "exercises": [
+    {
+      "name": "Wrist Curl",
+      "sets": 3,
+      "reps": 15,
+      "rest_seconds": 45,
+      "description": "Melatih otot fleksor pergelangan tangan.",
+      "instructions": [
+        "Duduk di bangku dengan lengan bawah di paha.",
+        "Pegang barbel dengan telapak tangan menghadap ke atas.",
+        "Tekuk pergelangan tangan ke atas lalu turunkan perlahan."
+      ],
+      "warning": "Gunakan beban ringan untuk menghindari cedera."
+    },
+    {
+      "name": "Reverse Wrist Curl",
+      "sets": 3,
+      "reps": 15,
+      "rest_seconds": 45,
+      "description": "Menargetkan otot ekstensor pergelangan tangan.",
+      "instructions": [
+        "Duduk dengan lengan bawah di paha.",
+        "Pegang barbel dengan telapak tangan menghadap ke bawah.",
+        "Tekuk pergelangan tangan ke atas lalu turunkan perlahan."
+      ],
+      "warning": "Kontrol gerakan untuk menghindari cedera."
+    },
+    {
+      "name": "Farmer's Walk",
+      "sets": 3,
+      "reps": 40,
+      "rest_seconds": 60,
+      "description": "Menguatkan cengkeraman dan lengan bawah.",
+      "instructions": [
+        "Pegang dumbbell berat di kedua tangan.",
+        "Berjalan sejauh jarak yang ditentukan.",
+        "Jaga punggung tetap tegak."
+      ],
+      "warning": "Jangan membungkuk saat berjalan."
+    },
+    {
+      "name": "Plate Pinch Hold",
+      "sets": 3,
+      "reps": 30,
+      "rest_seconds": 45,
+      "description": "Latihan genggaman statis untuk lengan bawah.",
+      "instructions": [
+        "Pegang dua plate dengan jari-jari di sisi luar.",
+        "Tahan selama durasi yang ditentukan.",
+        "Lepaskan perlahan."
+      ],
+      "warning": "Gunakan beban yang menantang namun aman."
+    },
+    {
+      "name": "Hammer Curl",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Melatih brachioradialis dan biceps.",
+      "instructions": [
+        "Pegang dumbbell dengan telapak tangan saling berhadapan.",
+        "Angkat ke arah bahu.",
+        "Turunkan perlahan."
+      ],
+      "warning": "Jaga siku tetap di sisi tubuh."
+    },
+    {
+      "name": "Reverse Curl",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Melatih ekstensor lengan bawah.",
+      "instructions": [
+        "Pegang barbel dengan pegangan pronasi.",
+        "Angkat ke arah bahu.",
+        "Turunkan perlahan."
+      ],
+      "warning": "Gunakan beban sedang untuk kontrol gerakan."
+    },
+    {
+      "name": "Towel Grip Pull-Up",
+      "sets": 3,
+      "reps": 8,
+      "rest_seconds": 90,
+      "description": "Pull-up menggunakan handuk untuk meningkatkan genggaman.",
+      "instructions": [
+        "Gantung dua handuk di pull-up bar.",
+        "Pegang handuk dan lakukan pull-up.",
+        "Turun perlahan."
+      ],
+      "warning": "Pastikan handuk aman sebelum mulai."
+    },
+    {
+      "name": "Behind-the-Back Wrist Curl",
+      "sets": 3,
+      "reps": 15,
+      "rest_seconds": 45,
+      "description": "Latihan fleksor pergelangan dengan posisi unik.",
+      "instructions": [
+        "Berdiri dengan barbel di belakang tubuh.",
+        "Pegang dengan telapak tangan menghadap ke belakang.",
+        "Tekuk pergelangan ke atas."
+      ],
+      "warning": "Gunakan beban ringan untuk menghindari ketegangan berlebihan."
+    },
+    {
+      "name": "Wrist Roller",
+      "sets": 3,
+      "reps": 3,
+      "rest_seconds": 90,
+      "description": "Menguatkan lengan bawah dengan gulungan beban.",
+      "instructions": [
+        "Pegang wrist roller dengan kedua tangan.",
+        "Gulung beban naik dan turunkan perlahan."
+      ],
+      "warning": "Gunakan beban sedang untuk kontrol penuh."
+    },
+    {
+      "name": "Finger Extensions with Band",
+      "sets": 3,
+      "reps": 20,
+      "rest_seconds": 30,
+      "description": "Melatih otot ekstensor jari.",
+      "instructions": [
+        "Pasang karet di sekitar jari-jari.",
+        "Buka jari melawan tahanan karet.",
+        "Kembali ke posisi awal."
+      ],
+      "warning": "Gunakan karet dengan resistensi sesuai kemampuan."
+    },
+    {
+      "name": "Dead Hang",
+      "sets": 3,
+      "reps": 60,
+      "rest_seconds": 60,
+      "description": "Latihan genggaman pasif.",
+      "instructions": [
+        "Gantung di pull-up bar dengan kedua tangan.",
+        "Tahan selama durasi yang ditentukan."
+      ],
+      "warning": "Jangan kunci siku sepenuhnya."
+    },
+    {
+      "name": "Static Bar Hold",
+      "sets": 3,
+      "reps": 45,
+      "rest_seconds": 60,
+      "description": "Menahan barbel di posisi tertentu untuk kekuatan genggaman.",
+      "instructions": [
+        "Angkat barbel dan tahan di posisi berdiri.",
+        "Jaga genggaman tetap kuat.",
+        "Turunkan perlahan."
+      ],
+      "warning": "Gunakan beban aman untuk sendi."
+    },
+    {
+      "name": "Zottman Curl",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Kombinasi curl dan reverse curl.",
+      "instructions": [
+        "Lakukan curl biasa lalu putar pergelangan tangan ke pronasi di atas.",
+        "Turunkan perlahan."
+      ],
+      "warning": "Gunakan kontrol penuh di setiap tahap."
+    },
+    {
+      "name": "Sledgehammer Levering",
+      "sets": 3,
+      "reps": 10,
+      "rest_seconds": 60,
+      "description": "Latihan kekuatan pergelangan tangan menggunakan sledgehammer.",
+      "instructions": [
+        "Pegang sledgehammer di ujung gagang.",
+        "Gerakkan ke arah depan dan belakang.",
+        "Jaga kontrol penuh."
+      ],
+      "warning": "Mulai dengan alat yang ringan."
+    },
+    {
+      "name": "Rice Bucket Drill",
+      "sets": 3,
+      "reps": 30,
+      "rest_seconds": 45,
+      "description": "Latihan genggaman dan pergelangan dengan media beras.",
+      "instructions": [
+        "Masukkan tangan ke dalam ember beras.",
+        "Buka dan tutup tangan berulang kali.",
+        "Lakukan variasi gerakan."
+      ],
+      "warning": "Pastikan ember stabil."
+    }
+  ]
+}

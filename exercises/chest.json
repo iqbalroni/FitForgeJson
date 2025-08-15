@@ -1,0 +1,201 @@
+{
+  "muscle_group": "Dada",
+  "exercises": [
+    {
+      "name": "Barbell Bench Press",
+      "sets": 4,
+      "reps": 8,
+      "rest_seconds": 90,
+      "description": "Latihan dasar untuk mengembangkan otot dada bagian tengah, juga melibatkan bahu dan trisep.",
+      "instructions": [
+        "Berbaring telentang di bangku datar.",
+        "Pegang barbel sedikit lebih lebar dari bahu.",
+        "Turunkan barbel ke dada dengan kontrol.",
+        "Dorong kembali ke atas hingga lengan lurus."
+      ],
+      "warning": "Selalu gunakan spotter saat menggunakan beban berat untuk menghindari cedera serius."
+    },
+    {
+      "name": "Incline Barbell Press",
+      "sets": 4,
+      "reps": 10,
+      "rest_seconds": 90,
+      "description": "Menargetkan otot dada bagian atas dengan menggunakan bangku miring.",
+      "instructions": [
+        "Atur bangku pada sudut 30-45 derajat.",
+        "Angkat dan turunkan barbel dengan kontrol.",
+        "Jaga kaki menapak di lantai dan punggung menempel di bangku."
+      ],
+      "warning": "Sudut terlalu curam dapat membebani bahu dan mengurangi aktivasi dada."
+    },
+    {
+      "name": "Decline Barbell Press",
+      "sets": 3,
+      "reps": 8,
+      "rest_seconds": 90,
+      "description": "Fokus pada otot dada bagian bawah.",
+      "instructions": [
+        "Berbaring di bangku decline.",
+        "Pegang barbel dan turunkan ke arah bawah dada.",
+        "Angkat kembali hingga lengan lurus."
+      ],
+      "warning": "Pastikan kaki terkunci agar tidak tergelincir saat berada di bangku decline."
+    },
+    {
+      "name": "Dumbbell Bench Press",
+      "sets": 3,
+      "reps": 10,
+      "rest_seconds": 90,
+      "description": "Melatih otot dada dengan rentang gerak yang lebih bebas.",
+      "instructions": [
+        "Berbaring di bangku datar.",
+        "Pegang dumbbell dan tekan ke atas secara bersamaan.",
+        "Turunkan perlahan ke posisi awal."
+      ],
+      "warning": "Hindari menurunkan dumbbell terlalu rendah agar tidak menyebabkan cedera bahu."
+    },
+    {
+      "name": "Incline Dumbbell Press",
+      "sets": 4,
+      "reps": 10,
+      "rest_seconds": 90,
+      "description": "Melatih otot dada atas dengan menggunakan dumbbell.",
+      "instructions": [
+        "Duduk di bangku miring.",
+        "Tekan dumbbell ke atas dan rapatkan di atas dada.",
+        "Turunkan secara perlahan."
+      ],
+      "warning": "Pastikan punggung dan kepala tetap menempel di bangku selama latihan."
+    },
+    {
+      "name": "Dumbbell Fly",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Latihan isolasi otot dada untuk meningkatkan rentang gerak.",
+      "instructions": [
+        "Berbaring di bangku datar dengan dumbbell di kedua tangan.",
+        "Rentangkan tangan ke samping, lalu angkat hingga bertemu di atas dada.",
+        "Jaga siku tetap sedikit menekuk."
+      ],
+      "warning": "Jangan terlalu membuka tangan agar tidak melukai sendi bahu."
+    },
+    {
+      "name": "Incline Dumbbell Fly",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Isolasi dada atas dengan gerakan membuka dan menutup tangan.",
+      "instructions": [
+        "Gunakan bangku dengan sudut miring.",
+        "Lakukan gerakan seperti memeluk dengan dumbbell.",
+        "Kembali ke posisi awal dengan kontrol."
+      ],
+      "warning": "Lakukan dengan beban ringan untuk menjaga kontrol dan menghindari cedera bahu."
+    },
+    {
+      "name": "Cable Crossover",
+      "sets": 3,
+      "reps": 15,
+      "rest_seconds": 60,
+      "description": "Latihan menggunakan kabel untuk memberikan ketegangan konstan pada dada.",
+      "instructions": [
+        "Atur pulley di atas kepala.",
+        "Pegang kedua kabel dan tarik ke depan sampai tangan bertemu.",
+        "Perlahan kembali ke posisi awal."
+      ],
+      "warning": "Pastikan posisi badan stabil dan tidak membungkuk saat menarik kabel."
+    },
+    {
+      "name": "Low Cable Fly",
+      "sets": 3,
+      "reps": 15,
+      "rest_seconds": 60,
+      "description": "Melatih bagian atas dada dengan menarik kabel dari bawah.",
+      "instructions": [
+        "Posisikan pulley rendah.",
+        "Tarik kabel ke atas dan ke depan seperti memeluk.",
+        "Kembali ke posisi awal dengan perlahan."
+      ],
+      "warning": "Hindari menggunakan beban terlalu berat untuk menjaga kontrol gerakan."
+    },
+    {
+      "name": "High Cable Fly",
+      "sets": 3,
+      "reps": 15,
+      "rest_seconds": 60,
+      "description": "Fokus pada dada bawah dengan kabel yang ditarik dari atas.",
+      "instructions": [
+        "Atur kabel tinggi di atas kepala.",
+        "Tarik kabel ke bawah dan ke depan.",
+        "Tahan kontraksi sesaat lalu kembali ke posisi awal."
+      ],
+      "warning": "Pastikan gerakan tetap simetris untuk menghindari ketidakseimbangan otot."
+    },
+    {
+      "name": "Chest Dips",
+      "sets": 3,
+      "reps": 10,
+      "rest_seconds": 90,
+      "description": "Latihan berat badan yang efektif untuk dada bawah.",
+      "instructions": [
+        "Pegang palang sejajar dengan tubuh condong ke depan.",
+        "Turunkan tubuh secara perlahan.",
+        "Dorong kembali ke atas dengan kuat."
+      ],
+      "warning": "Hindari turun terlalu dalam agar tidak memberi tekanan berlebih pada bahu."
+    },
+    {
+      "name": "Machine Chest Press",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Versi mesin dari bench press untuk isolasi otot dada.",
+      "instructions": [
+        "Duduk di mesin dan pegang pegangan.",
+        "Tekan ke depan hingga tangan lurus.",
+        "Kembali dengan perlahan."
+      ],
+      "warning": "Sesuaikan ketinggian kursi agar pegangan sejajar dengan dada."
+    },
+    {
+      "name": "Pec Deck Machine",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Isolasi otot dada menggunakan mesin fly.",
+      "instructions": [
+        "Duduk dan pegang tuas dengan siku sedikit menekuk.",
+        "Tekan tuas ke depan hingga tangan hampir bertemu.",
+        "Kembali perlahan ke posisi awal."
+      ],
+      "warning": "Gunakan beban sedang agar gerakan tetap terkendali dan tidak terlalu cepat."
+    },
+    {
+      "name": "Push-Up",
+      "sets": 4,
+      "reps": 20,
+      "rest_seconds": 60,
+      "description": "Latihan dasar yang efektif untuk seluruh otot dada dan trisep.",
+      "instructions": [
+        "Letakkan tangan selebar bahu di lantai.",
+        "Turunkan badan hingga dada hampir menyentuh lantai.",
+        "Dorong tubuh kembali ke atas."
+      ],
+      "warning": "Jaga tubuh tetap lurus agar punggung tidak melengkung dan pinggul tidak turun."
+    },
+    {
+      "name": "Svend Press",
+      "sets": 3,
+      "reps": 15,
+      "rest_seconds": 45,
+      "description": "Latihan isolasi dengan beban ringan, menargetkan otot dada dalam.",
+      "instructions": [
+        "Pegang beban (piringan) di depan dada dan tekan kedua tangan bersama.",
+        "Dorong ke depan sambil tetap menekan beban.",
+        "Tarik kembali ke dada dengan tekanan tetap."
+      ],
+      "warning": "Gunakan beban ringan karena latihan ini menuntut tekanan otot konstan."
+    }
+  ]
+}

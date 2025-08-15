@@ -1,0 +1,2636 @@
+{
+    "muscle_groups": [
+        {
+            "id": 1,
+            "name": "Chest",
+            "name_id": "Dada",
+            "description": "Otot dada berfungsi utama untuk mendorong dan menggerakkan lengan ke depan tubuh. Terdiri dari pectoralis major dan pectoralis minor.",
+            "anatomy": [
+                "Pectoralis Major",
+                "Pectoralis Minor",
+                "Serratus Anterior"
+            ],
+            "functions": [
+                "Gerakan dorong",
+                "Adduksi horizontal lengan",
+                "Rotasi internal bahu"
+            ],
+            "synergist_muscles": [
+                "Triceps",
+                "Anterior Deltoid"
+            ],
+            "antagonist_muscles": [
+                "Latissimus Dorsi",
+                "Rhomboids"
+            ],
+            "training_tips": [
+                "Gunakan variasi sudut bangku untuk menargetkan bagian atas, tengah, dan bawah dada",
+                "Gunakan beban sedang dengan kontrol penuh",
+                "Fokus pada kontraksi otot di setiap repetisi"
+            ],
+            "exercises": [
+                {
+                    "name": "Barbell Bench Press",
+                    "sets": 4,
+                    "reps": 8,
+                    "rest_seconds": 90,
+                    "description": "Latihan dasar dada tengah.",
+                    "instructions": [
+                        "Berbaring di bangku datar",
+                        "Pegang barbel selebar bahu",
+                        "Turunkan ke dada",
+                        "Dorong kembali ke atas"
+                    ],
+                    "warning": "Gunakan spotter saat beban berat"
+                },
+                {
+                    "name": "Incline Barbell Press",
+                    "sets": 4,
+                    "reps": 10,
+                    "rest_seconds": 90,
+                    "description": "Target dada atas.",
+                    "instructions": [
+                        "Atur bangku 30-45 derajat",
+                        "Angkat barbel dengan kontrol"
+                    ],
+                    "warning": "Sudut terlalu curam bisa membebani bahu"
+                },
+                {
+                    "name": "Decline Barbell Press",
+                    "sets": 3,
+                    "reps": 8,
+                    "rest_seconds": 90,
+                    "description": "Target dada bawah.",
+                    "instructions": [
+                        "Berbaring di bangku decline",
+                        "Turunkan barbel ke bawah dada"
+                    ],
+                    "warning": "Kunci kaki agar stabil"
+                },
+                {
+                    "name": "Dumbbell Bench Press",
+                    "sets": 3,
+                    "reps": 10,
+                    "rest_seconds": 90,
+                    "description": "Rentang gerak lebih bebas.",
+                    "instructions": [
+                        "Berbaring di bangku datar",
+                        "Tekan dumbbell ke atas"
+                    ],
+                    "warning": "Hindari menurunkan terlalu rendah"
+                },
+                {
+                    "name": "Incline Dumbbell Press",
+                    "sets": 4,
+                    "reps": 10,
+                    "rest_seconds": 90,
+                    "description": "Dada atas dengan dumbbell.",
+                    "instructions": [
+                        "Bangku miring",
+                        "Tekan dumbbell dan rapatkan di atas"
+                    ],
+                    "warning": "Punggung tetap menempel"
+                },
+                {
+                    "name": "Dumbbell Fly",
+                    "sets": 3,
+                    "reps": 12,
+                    "rest_seconds": 60,
+                    "description": "Isolasi dada.",
+                    "instructions": [
+                        "Berbaring di bangku datar",
+                        "Buka tangan lalu rapatkan"
+                    ],
+                    "warning": "Jangan terlalu membuka"
+                },
+                {
+                    "name": "Incline Dumbbell Fly",
+                    "sets": 3,
+                    "reps": 12,
+                    "rest_seconds": 60,
+                    "description": "Isolasi dada atas.",
+                    "instructions": [
+                        "Bangku miring",
+                        "Gerakan seperti memeluk"
+                    ],
+                    "warning": "Gunakan beban ringan"
+                },
+                {
+                    "name": "Cable Crossover",
+                    "sets": 3,
+                    "reps": 15,
+                    "rest_seconds": 60,
+                    "description": "Tegangan konstan.",
+                    "instructions": [
+                        "Pulley di atas kepala",
+                        "Tarik kabel ke depan"
+                    ],
+                    "warning": "Jaga tubuh stabil"
+                },
+                {
+                    "name": "Low Cable Fly",
+                    "sets": 3,
+                    "reps": 15,
+                    "rest_seconds": 60,
+                    "description": "Dada atas.",
+                    "instructions": [
+                        "Pulley rendah",
+                        "Tarik kabel ke atas dan ke depan"
+                    ],
+                    "warning": "Beban jangan terlalu berat"
+                },
+                {
+                    "name": "High Cable Fly",
+                    "sets": 3,
+                    "reps": 15,
+                    "rest_seconds": 60,
+                    "description": "Dada bawah.",
+                    "instructions": [
+                        "Pulley tinggi",
+                        "Tarik kabel ke bawah"
+                    ],
+                    "warning": "Gerakan simetris"
+                },
+                {
+                    "name": "Chest Dips",
+                    "sets": 3,
+                    "reps": 10,
+                    "rest_seconds": 90,
+                    "description": "Dada bawah bodyweight.",
+                    "instructions": [
+                        "Pegang palang",
+                        "Condong ke depan",
+                        "Turun perlahan"
+                    ],
+                    "warning": "Jangan turun terlalu dalam"
+                },
+                {
+                    "name": "Machine Chest Press",
+                    "sets": 3,
+                    "reps": 12,
+                    "rest_seconds": 60,
+                    "description": "Versi mesin bench press.",
+                    "instructions": [
+                        "Duduk",
+                        "Tekan pegangan ke depan"
+                    ],
+                    "warning": "Sesuaikan kursi"
+                },
+                {
+                    "name": "Pec Deck Machine",
+                    "sets": 3,
+                    "reps": 12,
+                    "rest_seconds": 60,
+                    "description": "Isolasi dada dengan mesin.",
+                    "instructions": [
+                        "Pegang tuas",
+                        "Tekan hingga hampir bertemu"
+                    ],
+                    "warning": "Jaga gerakan terkendali"
+                },
+                {
+                    "name": "Push-Up",
+                    "sets": 4,
+                    "reps": 20,
+                    "rest_seconds": 60,
+                    "description": "Latihan dasar bodyweight.",
+                    "instructions": [
+                        "Tangan selebar bahu",
+                        "Turunkan badan"
+                    ],
+                    "warning": "Tubuh tetap lurus"
+                },
+                {
+                    "name": "Svend Press",
+                    "sets": 3,
+                    "reps": 15,
+                    "rest_seconds": 45,
+                    "description": "Isolasi dada dalam.",
+                    "instructions": [
+                        "Pegang piringan di depan dada",
+                        "Tekan dan dorong ke depan"
+                    ],
+                    "warning": "Gunakan beban ringan"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Shoulders",
+            "name_id": "Bahu",
+            "description": "Otot bahu terdiri dari tiga kepala: anterior, medial, dan posterior. Berfungsi untuk mengangkat dan memutar lengan.",
+            "anatomy": [
+                "Anterior Deltoid",
+                "Lateral Deltoid",
+                "Posterior Deltoid"
+            ],
+            "functions": [
+                "Abduksi lengan",
+                "Fleksi bahu",
+                "Ekstensi bahu",
+                "Rotasi bahu"
+            ],
+            "synergist_muscles": [
+                "Trapezius",
+                "Supraspinatus"
+            ],
+            "antagonist_muscles": [
+                "Latissimus Dorsi",
+                "Pectoralis Major"
+            ],
+            "training_tips": [
+                "Latih ketiga kepala bahu untuk keseimbangan",
+                "Gunakan beban sedang dan kontrol penuh",
+                "Hindari mengangkat terlalu berat untuk mencegah cedera rotator cuff"
+            ],
+            "exercises": [
+                {
+                    "name": "Overhead Barbell Press",
+                    "sets": 4,
+                    "reps": 8,
+                    "rest_seconds": 90,
+                    "description": "Latihan bahu depan dan samping.",
+                    "instructions": [
+                        "Pegang barbel di dada",
+                        "Dorong ke atas"
+                    ],
+                    "warning": "Jaga punggung tetap tegak"
+                },
+                {
+                    "name": "Dumbbell Shoulder Press",
+                    "sets": 4,
+                    "reps": 10,
+                    "rest_seconds": 90,
+                    "description": "Bahu depan & samping.",
+                    "instructions": [
+                        "Duduk tegak",
+                        "Tekan dumbbell ke atas"
+                    ],
+                    "warning": "Jangan kunci siku di atas"
+                },
+                {
+                    "name": "Arnold Press",
+                    "sets": 3,
+                    "reps": 10,
+                    "rest_seconds": 90,
+                    "description": "Variasi shoulder press.",
+                    "instructions": [
+                        "Mulai dengan telapak menghadap tubuh",
+                        "Putar saat mengangkat"
+                    ],
+                    "warning": "Gunakan beban ringan untuk rotasi"
+                },
+                {
+                    "name": "Lateral Raise",
+                    "sets": 3,
+                    "reps": 12,
+                    "rest_seconds": 60,
+                    "description": "Target bahu samping.",
+                    "instructions": [
+                        "Angkat dumbbell ke samping hingga sejajar bahu"
+                    ],
+                    "warning": "Siku sedikit menekuk"
+                },
+                {
+                    "name": "Front Raise",
+                    "sets": 3,
+                    "reps": 12,
+                    "rest_seconds": 60,
+                    "description": "Target bahu depan.",
+                    "instructions": [
+                        "Angkat dumbbell ke depan"
+                    ],
+                    "warning": "Hindari ayunan tubuh"
+                },
+                {
+                    "name": "Bent-Over Reverse Fly",
+                    "sets": 3,
+                    "reps": 12,
+                    "rest_seconds": 60,
+                    "description": "Bahu belakang.",
+                    "instructions": [
+                        "Bungkuk 45 derajat",
+                        "Buka tangan ke samping"
+                    ],
+                    "warning": "Punggung tetap lurus"
+                },
+                {
+                    "name": "Upright Row",
+                    "sets": 3,
+                    "reps": 10,
+                    "rest_seconds": 60,
+                    "description": "Bahu samping & trapezius.",
+                    "instructions": [
+                        "Tarik barbel ke dagu"
+                    ],
+                    "warning": "Gunakan beban sedang"
+                },
+                {
+                    "name": "Face Pull",
+                    "sets": 3,
+                    "reps": 15,
+                    "rest_seconds": 60,
+                    "description": "Bahu belakang & rotator cuff.",
+                    "instructions": [
+                        "Gunakan kabel",
+                        "Tarik ke arah wajah"
+                    ],
+                    "warning": "Gunakan beban ringan"
+                },
+                {
+                    "name": "Cable Lateral Raise",
+                    "sets": 3,
+                    "reps": 12,
+                    "rest_seconds": 60,
+                    "description": "Isolasi bahu samping dengan kabel.",
+                    "instructions": [
+                        "Tarik kabel ke samping"
+                    ],
+                    "warning": "Gerakan terkendali"
+                },
+                {
+                    "name": "Machine Shoulder Press",
+                    "sets": 3,
+                    "reps": 12,
+                    "rest_seconds": 60,
+                    "description": "Versi mesin shoulder press.",
+                    "instructions": [
+                        "Tekan pegangan ke atas"
+                    ],
+                    "warning": "Sesuaikan kursi"
+                },
+                {
+                    "name": "Seated Overhead Dumbbell Press",
+                    "sets": 3,
+                    "reps": 10,
+                    "rest_seconds": 90,
+                    "description": "Bahu depan & samping.",
+                    "instructions": [
+                        "Duduk tegak",
+                        "Tekan ke atas"
+                    ],
+                    "warning": "Gunakan core untuk stabilisasi"
+                },
+                {
+                    "name": "Plate Front Raise",
+                    "sets": 3,
+                    "reps": 12,
+                    "rest_seconds": 60,
+                    "description": "Bahu depan dengan piringan.",
+                    "instructions": [
+                        "Angkat piringan di depan"
+                    ],
+                    "warning": "Hindari punggung melengkung"
+                },
+                {
+                    "name": "Y-Raise",
+                    "sets": 3,
+                    "reps": 15,
+                    "rest_seconds": 60,
+                    "description": "Bahu belakang dan trapezius.",
+                    "instructions": [
+                        "Bungkuk",
+                        "Angkat tangan membentuk Y"
+                    ],
+                    "warning": "Gunakan beban ringan"
+                },
+                {
+                    "name": "Behind-the-Neck Press",
+                    "sets": 3,
+                    "reps": 8,
+                    "rest_seconds": 90,
+                    "description": "Variasi overhead press.",
+                    "instructions": [
+                        "Turunkan barbel di belakang kepala"
+                    ],
+                    "warning": "Hanya untuk yang mobilitas bahunya baik"
+                },
+                {
+                    "name": "Shrug",
+                    "sets": 3,
+                    "reps": 12,
+                    "rest_seconds": 60,
+                    "description": "Latihan trapezius atas.",
+                    "instructions": [
+                        "Angkat bahu setinggi mungkin"
+                    ],
+                    "warning": "Jangan memutar bahu"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Back",
+            "name_id": "Punggung",
+            "description": "Latihan untuk memperkuat otot punggung atas, tengah, dan bawah, serta meningkatkan postur tubuh.",
+            "exercises": [
+                {
+                    "name": "Pull-Up",
+                    "sets": 4,
+                    "reps": 8,
+                    "rest_seconds": 90,
+                    "description": "Latihan berat badan untuk punggung atas dan biceps.",
+                    "instructions": [
+                        "Gantung pada pull-up bar.",
+                        "Tarik tubuh hingga dagu di atas bar.",
+                        "Turunkan perlahan ke posisi awal."
+                    ],
+                    "warning": "Gunakan pegangan yang kuat untuk menghindari cedera."
+                },
+                {
+                    "name": "Chin-Up",
+                    "sets": 4,
+                    "reps": 8,
+                    "rest_seconds": 90,
+                    "description": "Menargetkan punggung dan biceps dengan pegangan supinasi.",
+                    "instructions": [
+                        "Pegang bar dengan telapak menghadap ke arah tubuh.",
+                        "Tarik tubuh hingga dagu di atas bar.",
+                        "Turunkan perlahan."
+                    ],
+                    "warning": "Hindari ayunan berlebihan."
+                },
+                {
+                    "name": "Deadlift",
+                    "sets": 4,
+                    "reps": 6,
+                    "rest_seconds": 120,
+                    "description": "Latihan kekuatan penuh untuk punggung bawah, glutes, dan hamstrings.",
+                    "instructions": [
+                        "Berdiri dengan kaki selebar bahu.",
+                        "Pegang barbell dan angkat dengan punggung lurus.",
+                        "Turunkan kembali dengan kontrol."
+                    ],
+                    "warning": "Jangan membulatkan punggung."
+                },
+                {
+                    "name": "Barbell Row",
+                    "sets": 4,
+                    "reps": 10,
+                    "rest_seconds": 90,
+                    "description": "Melatih punggung tengah dan lats.",
+                    "instructions": [
+                        "Pegang barbell, tubuh condong ke depan.",
+                        "Tarik barbell ke arah perut.",
+                        "Turunkan kembali perlahan."
+                    ],
+                    "warning": "Jaga punggung tetap lurus."
+                },
+                {
+                    "name": "T-Bar Row",
+                    "sets": 4,
+                    "reps": 10,
+                    "rest_seconds": 90,
+                    "description": "Isolasi punggung tengah menggunakan T-bar.",
+                    "instructions": [
+                        "Berdiri di posisi T-bar row.",
+                        "Tarik pegangan ke arah dada.",
+                        "Turunkan perlahan."
+                    ],
+                    "warning": "Hindari beban berlebihan."
+                },
+                {
+                    "name": "Seated Cable Row",
+                    "sets": 3,
+                    "reps": 12,
+                    "rest_seconds": 60,
+                    "description": "Menggunakan mesin kabel untuk ketegangan konstan.",
+                    "instructions": [
+                        "Duduk di mesin row.",
+                        "Tarik pegangan ke arah perut.",
+                        "Kembali perlahan."
+                    ],
+                    "warning": "Jangan membungkuk berlebihan."
+                },
+                {
+                    "name": "Lat Pulldown",
+                    "sets": 3,
+                    "reps": 12,
+                    "rest_seconds": 60,
+                    "description": "Menargetkan otot punggung lebar.",
+                    "instructions": [
+                        "Duduk di mesin lat pulldown.",
+                        "Tarik bar ke bawah hingga dada.",
+                        "Lepaskan perlahan."
+                    ],
+                    "warning": "Hindari menarik terlalu ke belakang leher."
+                },
+                {
+                    "name": "One-Arm Dumbbell Row",
+                    "sets": 3,
+                    "reps": 12,
+                    "rest_seconds": 60,
+                    "description": "Latihan unilateral untuk punggung tengah.",
+                    "instructions": [
+                        "Letakkan lutut dan tangan di bangku.",
+                        "Tarik dumbbell ke arah pinggang.",
+                        "Turunkan perlahan."
+                    ],
+                    "warning": "Jangan memutar pinggang."
+                },
+                {
+                    "name": "Inverted Row",
+                    "sets": 3,
+                    "reps": 10,
+                    "rest_seconds": 60,
+                    "description": "Latihan berat badan untuk punggung.",
+                    "instructions": [
+                        "Berbaring di bawah bar rendah.",
+                        "Tarik dada ke bar.",
+                        "Turunkan kembali."
+                    ],
+                    "warning": "Jaga tubuh tetap lurus."
+                },
+                {
+                    "name": "Reverse Fly",
+                    "sets": 3,
+                    "reps": 15,
+                    "rest_seconds": 45,
+                    "description": "Isolasi otot punggung atas dan rear delts.",
+                    "instructions": [
+                        "Pegang dumbbell di kedua tangan.",
+                        "Bungkukkan badan sedikit.",
+                        "Buka tangan ke samping.",
+                        "Kembali ke posisi awal."
+                    ],
+                    "warning": "Gunakan beban ringan."
+                },
+                {
+                    "name": "Good Morning",
+                    "sets": 3,
+                    "reps": 12,
+                    "rest_seconds": 60,
+                    "description": "Melatih punggung bawah dan hamstrings.",
+                    "instructions": [
+                        "Letakkan bar di punggung atas.",
+                        "Bungkukkan badan ke depan.",
+                        "Kembali tegak."
+                    ],
+                    "warning": "Jangan membulatkan punggung."
+                },
+                {
+                    "name": "Back Extension",
+                    "sets": 3,
+                    "reps": 15,
+                    "rest_seconds": 45,
+                    "description": "Menguatkan punggung bawah.",
+                    "instructions": [
+                        "Gunakan bangku hyperextension.",
+                        "Turunkan tubuh ke depan.",
+                        "Kembali ke posisi awal."
+                    ],
+                    "warning": "Jangan gerak terlalu cepat."
+                },
+                {
+                    "name": "Face Pull",
+                    "sets": 3,
+                    "reps": 12,
+                    "rest_seconds": 60,
+                    "description": "Latihan kabel untuk punggung atas.",
+                    "instructions": [
+                        "Atur kabel setinggi wajah.",
+                        "Tarik pegangan ke arah wajah.",
+                        "Kembali perlahan."
+                    ],
+                    "warning": "Jangan menjatuhkan siku."
+                },
+                {
+                    "name": "Rack Pull",
+                    "sets": 3,
+                    "reps": 6,
+                    "rest_seconds": 120,
+                    "description": "Versi pendek deadlift untuk punggung bawah.",
+                    "instructions": [
+                        "Atur bar di rak setinggi lutut.",
+                        "Angkat bar hingga berdiri tegak.",
+                        "Turunkan kembali."
+                    ],
+                    "warning": "Gunakan teknik deadlift yang benar."
+                },
+                {
+                    "name": "Superman",
+                    "sets": 3,
+                    "reps": 15,
+                    "rest_seconds": 45,
+                    "description": "Latihan berat badan untuk punggung bawah.",
+                    "instructions": [
+                        "Berbaring tengkurap.",
+                        "Angkat tangan dan kaki bersamaan.",
+                        "Tahan beberapa detik.",
+                        "Turunkan kembali."
+                    ],
+                    "warning": "Hindari gerakan mendadak."
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Triceps",
+            "name_id": "Trisep",
+            "description": "Otot trisep berada di bagian belakang lengan atas, berperan penting dalam gerakan meluruskan siku dan mendorong beban.",
+            "exercises": [
+                {
+                    "name": "Close-Grip Bench Press",
+                    "sets": 4,
+                    "reps": 8,
+                    "rest_seconds": 90,
+                    "description": "Versi bench press dengan pegangan sempit untuk fokus ke trisep.",
+                    "instructions": [
+                        "Berbaring di bangku datar.",
+                        "Pegang barbel dengan jarak tangan lebih sempit dari bahu.",
+                        "Turunkan ke dada lalu dorong kembali."
+                    ],
+                    "warning": "Jaga siku tetap dekat dengan tubuh."
+                },
+                {
+                    "name": "Triceps Dips",
+                    "sets": 3,
+                    "reps": 10,
+                    "rest_seconds": 90,
+                    "description": "Latihan berat badan untuk memperkuat trisep.",
+                    "instructions": [
+                        "Pegang parallel bar.",
+                        "Turunkan tubuh dengan siku menekuk.",
+                        "Dorong kembali ke atas."
+                    ],
+                    "warning": "Hindari turun terlalu dalam untuk melindungi bahu."
+                },
+                {
+                    "name": "Overhead Dumbbell Extension",
+                    "sets": 3,
+                    "reps": 12,
+                    "rest_seconds": 60,
+                    "description": "Mengisolasi trisep dengan gerakan ekstensi dari atas kepala.",
+                    "instructions": [
+                        "Pegang dumbbell dengan kedua tangan di atas kepala.",
+                        "Turunkan ke belakang kepala.",
+                        "Angkat kembali ke posisi awal."
+                    ],
+                    "warning": "Jangan gunakan beban terlalu berat agar siku tetap stabil."
+                },
+                {
+                    "name": "Rope Pushdown",
+                    "sets": 3,
+                    "reps": 15,
+                    "rest_seconds": 60,
+                    "description": "Latihan menggunakan kabel untuk melatih trisep.",
+                    "instructions": [
+                        "Pasang tali di mesin kabel tinggi.",
+                        "Tarik ke bawah sambil memisahkan tali di akhir gerakan.",
+                        "Kembali perlahan."
+                    ],
+                    "warning": "Jaga tubuh tetap tegak."
+                },
+                {
+                    "name": "Skull Crusher (EZ Bar)",
+                    "sets": 4,
+                    "reps": 10,
+                    "rest_seconds": 90,
+                    "description": "Latihan isolasi untuk trisep menggunakan bar EZ.",
+                    "instructions": [
+                        "Berbaring di bangku datar.",
+                        "Turunkan bar ke arah dahi.",
+                        "Dorong kembali ke atas."
+                    ],
+                    "warning": "Gunakan gerakan terkendali."
+                },
+                {
+                    "name": "Diamond Push-Up",
+                    "sets": 3,
+                    "reps": 12,
+                    "rest_seconds": 60,
+                    "description": "Push-up dengan posisi tangan membentuk segitiga.",
+                    "instructions": [
+                        "Letakkan tangan di lantai membentuk segitiga.",
+                        "Turunkan badan hingga dada hampir menyentuh tangan.",
+                        "Dorong kembali ke atas."
+                    ],
+                    "warning": "Jaga tubuh tetap lurus."
+                },
+                {
+                    "name": "Kickback Dumbbell",
+                    "sets": 3,
+                    "reps": 15,
+                    "rest_seconds": 60,
+                    "description": "Isolasi trisep dengan gerakan ekstensi dari posisi membungkuk.",
+                    "instructions": [
+                        "Bungkuk dengan lutut sedikit ditekuk.",
+                        "Dorong dumbbell ke belakang hingga lengan lurus.",
+                        "Kembali ke posisi awal."
+                    ],
+                    "warning": "Jangan mengayunkan beban."
+                },
+                {
+                    "name": "Cable Overhead Extension",
+                    "sets": 3,
+                    "reps": 12,
+                    "rest_seconds": 60,
+                    "description": "Ekstensi trisep menggunakan kabel dari posisi di atas kepala.",
+                    "instructions": [
+                        "Pasang pegangan di kabel rendah.",
+                        "Bawa ke atas kepala dan luruskan lengan.",
+                        "Kembali perlahan."
+                    ],
+                    "warning": "Jaga siku tetap stabil."
+                },
+                {
+                    "name": "Barbell JM Press",
+                    "sets": 4,
+                    "reps": 8,
+                    "rest_seconds": 90,
+                    "description": "Kombinasi bench press dan skull crusher.",
+                    "instructions": [
+                        "Berbaring di bangku datar.",
+                        "Turunkan bar mendekati dagu sambil menekuk siku.",
+                        "Dorong kembali ke atas."
+                    ],
+                    "warning": "Gunakan teknik yang benar untuk menghindari cedera."
+                },
+                {
+                    "name": "Bench Dip",
+                    "sets": 3,
+                    "reps": 12,
+                    "rest_seconds": 60,
+                    "description": "Latihan menggunakan bangku untuk melatih trisep.",
+                    "instructions": [
+                        "Letakkan tangan di belakang di atas bangku.",
+                        "Turunkan tubuh dengan menekuk siku.",
+                        "Dorong kembali ke atas."
+                    ],
+                    "warning": "Gunakan bangku yang stabil."
+                },
+                {
+                    "name": "Single-Arm Cable Pushdown",
+                    "sets": 3,
+                    "reps": 12,
+                    "rest_seconds": 60,
+                    "description": "Pushdown satu tangan untuk fokus ke tiap sisi trisep.",
+                    "instructions": [
+                        "Pegang pegangan kabel dengan satu tangan.",
+                        "Tarik ke bawah hingga lengan lurus.",
+                        "Kembali perlahan."
+                    ],
+                    "warning": "Hindari mengangkat bahu."
+                },
+                {
+                    "name": "Reverse Grip Pushdown",
+                    "sets": 3,
+                    "reps": 15,
+                    "rest_seconds": 60,
+                    "description": "Pushdown dengan pegangan terbalik.",
+                    "instructions": [
+                        "Pegang bar kabel dengan telapak menghadap ke atas.",
+                        "Tarik ke bawah hingga lengan lurus.",
+                        "Kembali perlahan."
+                    ],
+                    "warning": "Gunakan beban sedang."
+                },
+                {
+                    "name": "Floor Press with Close Grip",
+                    "sets": 4,
+                    "reps": 8,
+                    "rest_seconds": 90,
+                    "description": "Versi close grip bench press di lantai.",
+                    "instructions": [
+                        "Berbaring di lantai dengan barbel.",
+                        "Pegangan sempit, dorong bar ke atas.",
+                        "Turunkan dengan kontrol."
+                    ],
+                    "warning": "Gunakan spotter untuk keamanan."
+                },
+                {
+                    "name": "Band Triceps Pushdown",
+                    "sets": 3,
+                    "reps": 15,
+                    "rest_seconds": 60,
+                    "description": "Menggunakan resistance band untuk melatih trisep.",
+                    "instructions": [
+                        "Pasang band di atas kepala.",
+                        "Tarik ke bawah hingga lengan lurus.",
+                        "Kembali perlahan."
+                    ],
+                    "warning": "Jangan membiarkan band memantul."
+                },
+                {
+                    "name": "Overhead Barbell Extension",
+                    "sets": 3,
+                    "reps": 12,
+                    "rest_seconds": 60,
+                    "description": "Ekstensi barbel dari atas kepala untuk trisep.",
+                    "instructions": [
+                        "Pegang barbel di atas kepala.",
+                        "Turunkan ke belakang kepala.",
+                        "Dorong kembali ke atas."
+                    ],
+                    "warning": "Gunakan beban sesuai kemampuan."
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Core",
+            "name_id": "Otot Inti",
+            "description": "Otot inti meliputi perut, punggung bawah, dan otot penopang tulang belakang, penting untuk stabilitas tubuh.",
+            "exercises": [
+                {
+                    "name": "Plank",
+                    "sets": 3,
+                    "reps": 60,
+                    "rest_seconds": 30,
+                    "description": "Latihan isometrik untuk memperkuat otot inti.",
+                    "instructions": [
+                        "Posisikan tubuh seperti push-up.",
+                        "Tahan posisi dengan tubuh lurus.",
+                        "Jangan turunkan pinggul."
+                    ],
+                    "warning": "Jangan membiarkan punggung melengkung."
+                },
+                {
+                    "name": "Crunch",
+                    "sets": 3,
+                    "reps": 15,
+                    "rest_seconds": 30,
+                    "description": "Latihan dasar untuk otot perut bagian atas.",
+                    "instructions": [
+                        "Berbaring telentang dengan lutut ditekuk.",
+                        "Angkat bahu dari lantai.",
+                        "Kembali perlahan."
+                    ],
+                    "warning": "Jangan menarik leher."
+                },
+                {
+                    "name": "Bicycle Crunch",
+                    "sets": 3,
+                    "reps": 20,
+                    "rest_seconds": 30,
+                    "description": "Melatih perut dan obliques dengan gerakan memutar.",
+                    "instructions": [
+                        "Berbaring dan angkat kaki.",
+                        "Sentuhkan siku kanan ke lutut kiri bergantian.",
+                        "Lakukan terus bergantian."
+                    ],
+                    "warning": "Jaga gerakan tetap terkontrol."
+                },
+                {
+                    "name": "Russian Twist",
+                    "sets": 3,
+                    "reps": 20,
+                    "rest_seconds": 30,
+                    "description": "Memutar tubuh untuk melatih obliques.",
+                    "instructions": [
+                        "Duduk dengan lutut ditekuk.",
+                        "Putar tubuh ke kanan dan kiri.",
+                        "Gunakan beban untuk menambah intensitas."
+                    ],
+                    "warning": "Jaga punggung tetap tegak."
+                },
+                {
+                    "name": "Leg Raise",
+                    "sets": 3,
+                    "reps": 12,
+                    "rest_seconds": 30,
+                    "description": "Melatih perut bagian bawah.",
+                    "instructions": [
+                        "Berbaring dengan tangan di samping.",
+                        "Angkat kaki lurus ke atas.",
+                        "Turunkan perlahan."
+                    ],
+                    "warning": "Jangan mengayun kaki."
+                },
+                {
+                    "name": "Hanging Knee Raise",
+                    "sets": 3,
+                    "reps": 12,
+                    "rest_seconds": 45,
+                    "description": "Mengangkat lutut dari posisi menggantung.",
+                    "instructions": [
+                        "Gantung di pull-up bar.",
+                        "Angkat lutut ke dada.",
+                        "Turunkan perlahan."
+                    ],
+                    "warning": "Hindari goyangan tubuh berlebihan."
+                },
+                {
+                    "name": "Mountain Climber",
+                    "sets": 3,
+                    "reps": 30,
+                    "rest_seconds": 30,
+                    "description": "Latihan kardio sekaligus memperkuat inti.",
+                    "instructions": [
+                        "Posisi plank tinggi.",
+                        "Gerakkan lutut ke arah dada secara bergantian.",
+                        "Jaga tempo cepat."
+                    ],
+                    "warning": "Jaga pinggul tidak terlalu tinggi."
+                },
+                {
+                    "name": "Flutter Kick",
+                    "sets": 3,
+                    "reps": 20,
+                    "rest_seconds": 30,
+                    "description": "Latihan perut bawah dengan gerakan kaki kecil.",
+                    "instructions": [
+                        "Berbaring dan angkat kaki sedikit.",
+                        "Gerakkan kaki naik-turun bergantian.",
+                        "Pertahankan punggung bawah menempel di lantai."
+                    ],
+                    "warning": "Jangan menurunkan kaki terlalu rendah."
+                },
+                {
+                    "name": "Side Plank",
+                    "sets": 3,
+                    "reps": 30,
+                    "rest_seconds": 30,
+                    "description": "Variasi plank untuk melatih obliques.",
+                    "instructions": [
+                        "Berbaring menyamping.",
+                        "Angkat tubuh dengan satu siku menopang.",
+                        "Tahan posisi."
+                    ],
+                    "warning": "Jaga pinggul tidak turun."
+                },
+                {
+                    "name": "V-Up",
+                    "sets": 3,
+                    "reps": 12,
+                    "rest_seconds": 30,
+                    "description": "Gerakan mengangkat kaki dan badan secara bersamaan.",
+                    "instructions": [
+                        "Berbaring telentang.",
+                        "Angkat kaki dan tubuh membentuk huruf V.",
+                        "Kembali perlahan."
+                    ],
+                    "warning": "Gunakan kontrol penuh."
+                },
+                {
+                    "name": "Ab Wheel Rollout",
+                    "sets": 3,
+                    "reps": 10,
+                    "rest_seconds": 45,
+                    "description": "Menggunakan roda abs untuk melatih seluruh otot inti.",
+                    "instructions": [
+                        "Pegang ab wheel di lantai.",
+                        "Gulirkan ke depan sejauh mungkin.",
+                        "Tarik kembali."
+                    ],
+                    "warning": "Jangan melengkungkan punggung bawah."
+                },
+                {
+                    "name": "Toe Touch",
+                    "sets": 3,
+                    "reps": 15,
+                    "rest_seconds": 30,
+                    "description": "Mengangkat tubuh untuk menyentuh jari kaki.",
+                    "instructions": [
+                        "Berbaring dengan kaki lurus ke atas.",
+                        "Sentuh jari kaki dengan tangan.",
+                        "Kembali perlahan."
+                    ],
+                    "warning": "Jangan memaksakan leher."
+                },
+                {
+                    "name": "Reverse Crunch",
+                    "sets": 3,
+                    "reps": 12,
+                    "rest_seconds": 30,
+                    "description": "Mengangkat pinggul untuk melatih perut bawah.",
+                    "instructions": [
+                        "Berbaring dengan lutut ditekuk.",
+                        "Angkat pinggul ke arah dada.",
+                        "Turunkan perlahan."
+                    ],
+                    "warning": "Hindari mengayun."
+                },
+                {
+                    "name": "Dead Bug",
+                    "sets": 3,
+                    "reps": 12,
+                    "rest_seconds": 30,
+                    "description": "Melatih koordinasi inti dan stabilitas.",
+                    "instructions": [
+                        "Berbaring dengan tangan dan kaki di udara.",
+                        "Turunkan tangan kanan dan kaki kiri bersamaan.",
+                        "Ganti sisi."
+                    ],
+                    "warning": "Jaga punggung bawah tetap menempel."
+                },
+                {
+                    "name": "Cable Woodchopper",
+                    "sets": 3,
+                    "reps": 12,
+                    "rest_seconds": 45,
+                    "description": "Gerakan memutar menggunakan kabel.",
+                    "instructions": [
+                        "Atur kabel tinggi.",
+                        "Tarik kabel secara diagonal ke bawah.",
+                        "Kembali perlahan."
+                    ],
+                    "warning": "Gunakan pinggang, bukan hanya tangan."
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name_en": "Forearms",
+            "name_id": "Lengan Bawah",
+            "description": "Otot lengan bawah bertanggung jawab untuk kekuatan genggaman, rotasi pergelangan tangan, dan stabilisasi saat mengangkat beban. Latihan forearms membantu mencegah cedera dan meningkatkan performa pada berbagai gerakan.",
+            "exercises": [
+                {
+                    "name": "Wrist Curl",
+                    "sets": 3,
+                    "reps": 15,
+                    "rest_seconds": 45,
+                    "description": "Latihan untuk memperkuat otot fleksor pergelangan tangan.",
+                    "instructions": [
+                        "Duduk di bangku dengan lengan bawah bertumpu di paha.",
+                        "Pegang dumbbell dengan telapak menghadap ke atas.",
+                        "Tekuk pergelangan tangan ke atas lalu turunkan perlahan."
+                    ],
+                    "warning": "Gunakan beban ringan hingga sedang untuk menghindari cedera pergelangan."
+                },
+                {
+                    "name": "Reverse Wrist Curl",
+                    "sets": 3,
+                    "reps": 15,
+                    "rest_seconds": 45,
+                    "description": "Melatih otot ekstensor pergelangan tangan.",
+                    "instructions": [
+                        "Duduk di bangku, lengan bawah di paha.",
+                        "Pegang dumbbell dengan telapak menghadap ke bawah.",
+                        "Angkat pergelangan tangan ke atas lalu turunkan perlahan."
+                    ],
+                    "warning": "Hindari gerakan tiba-tiba untuk menjaga sendi."
+                },
+                {
+                    "name": "Farmer's Walk",
+                    "sets": 3,
+                    "reps": 30,
+                    "rest_seconds": 60,
+                    "description": "Latihan fungsional untuk kekuatan genggaman dan stabilitas tubuh.",
+                    "instructions": [
+                        "Pegang dumbbell atau kettlebell di kedua tangan.",
+                        "Berjalan tegak sejauh jarak yang ditentukan.",
+                        "Jaga bahu tetap stabil."
+                    ],
+                    "warning": "Jangan membungkuk saat berjalan."
+                },
+                {
+                    "name": "Plate Pinch",
+                    "sets": 3,
+                    "reps": 20,
+                    "rest_seconds": 45,
+                    "description": "Melatih genggaman jari dan ibu jari.",
+                    "instructions": [
+                        "Jepit dua piringan beban dengan jari-jari.",
+                        "Tahan selama beberapa detik.",
+                        "Lepaskan perlahan."
+                    ],
+                    "warning": "Gunakan piringan tipis untuk pemula."
+                },
+                {
+                    "name": "Hammer Curl",
+                    "sets": 3,
+                    "reps": 12,
+                    "rest_seconds": 60,
+                    "description": "Selain biceps, hammer curl melibatkan otot brachioradialis pada lengan bawah.",
+                    "instructions": [
+                        "Pegang dumbbell dengan telapak saling berhadapan.",
+                        "Tekuk siku hingga dumbbell setinggi bahu.",
+                        "Turunkan perlahan."
+                    ],
+                    "warning": "Jangan mengayunkan lengan."
+                },
+                {
+                    "name": "Towel Pull-Up",
+                    "sets": 3,
+                    "reps": 8,
+                    "rest_seconds": 90,
+                    "description": "Pull-up dengan handuk untuk meningkatkan kekuatan genggaman.",
+                    "instructions": [
+                        "Lingkarkan handuk pada pull-up bar.",
+                        "Pegang ujung handuk dengan erat.",
+                        "Lakukan pull-up seperti biasa."
+                    ],
+                    "warning": "Pastikan handuk kuat menahan beban."
+                },
+                {
+                    "name": "Reverse Curl",
+                    "sets": 3,
+                    "reps": 12,
+                    "rest_seconds": 60,
+                    "description": "Latihan curl dengan pegangan pronasi untuk melatih brachioradialis.",
+                    "instructions": [
+                        "Pegang barbell atau dumbbell dengan telapak menghadap bawah.",
+                        "Tekuk siku sambil mengangkat beban.",
+                        "Turunkan perlahan."
+                    ],
+                    "warning": "Gunakan beban sedang."
+                },
+                {
+                    "name": "Dead Hang",
+                    "sets": 3,
+                    "reps": 30,
+                    "rest_seconds": 60,
+                    "description": "Menggantung di pull-up bar untuk kekuatan genggaman.",
+                    "instructions": [
+                        "Gantungkan tubuh di pull-up bar.",
+                        "Tahan posisi selama yang ditentukan.",
+                        "Jaga bahu tetap aktif."
+                    ],
+                    "warning": "Jangan menggantung pasif terlalu lama."
+                },
+                {
+                    "name": "Cable Wrist Curl",
+                    "sets": 3,
+                    "reps": 15,
+                    "rest_seconds": 45,
+                    "description": "Melatih fleksor pergelangan dengan kabel.",
+                    "instructions": [
+                        "Duduk di depan mesin kabel rendah.",
+                        "Pegang pegangan dan tekuk pergelangan ke atas.",
+                        "Turunkan perlahan."
+                    ],
+                    "warning": "Gunakan beban ringan."
+                },
+                {
+                    "name": "Behind-the-Back Wrist Curl",
+                    "sets": 3,
+                    "reps": 15,
+                    "rest_seconds": 45,
+                    "description": "Versi wrist curl dengan posisi di belakang punggung.",
+                    "instructions": [
+                        "Berdiri dengan barbell di belakang punggung.",
+                        "Tekuk pergelangan ke atas.",
+                        "Turunkan perlahan."
+                    ],
+                    "warning": "Jangan membungkuk saat melakukan gerakan."
+                },
+                {
+                    "name": "Grip Trainer Squeeze",
+                    "sets": 3,
+                    "reps": 20,
+                    "rest_seconds": 30,
+                    "description": "Menggunakan alat grip trainer untuk genggaman lebih kuat.",
+                    "instructions": [
+                        "Pegang grip trainer di satu tangan.",
+                        "Remas hingga tertutup penuh.",
+                        "Lepaskan perlahan."
+                    ],
+                    "warning": "Hindari penggunaan berlebihan untuk mencegah nyeri otot."
+                },
+                {
+                    "name": "Rope Climb",
+                    "sets": 3,
+                    "reps": 5,
+                    "rest_seconds": 120,
+                    "description": "Memanjat tali melatih genggaman dan otot forearms secara maksimal.",
+                    "instructions": [
+                        "Pegang tali dengan kuat.",
+                        "Tarik tubuh ke atas menggunakan lengan.",
+                        "Turun perlahan."
+                    ],
+                    "warning": "Gunakan matras untuk keamanan."
+                },
+                {
+                    "name": "Bar Hold",
+                    "sets": 3,
+                    "reps": 30,
+                    "rest_seconds": 60,
+                    "description": "Latihan statis untuk kekuatan genggaman.",
+                    "instructions": [
+                        "Pegang barbell berat di depan tubuh.",
+                        "Tahan selama yang ditentukan.",
+                        "Letakkan kembali dengan aman."
+                    ],
+                    "warning": "Gunakan sabuk pengaman jika perlu."
+                },
+                {
+                    "name": "Thick Bar Hold",
+                    "sets": 3,
+                    "reps": 20,
+                    "rest_seconds": 60,
+                    "description": "Versi bar hold dengan pegangan tebal.",
+                    "instructions": [
+                        "Gunakan bar tebal atau adaptor pegangan.",
+                        "Pegang sekuat mungkin.",
+                        "Lepaskan perlahan."
+                    ],
+                    "warning": "Gunakan beban yang aman."
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name_en": "Glutes",
+            "name_id": "Otot Bokong",
+            "description": "Glutes adalah kelompok otot besar di bokong yang terdiri dari gluteus maximus, medius, dan minimus. Berperan penting dalam kekuatan pinggul, stabilitas tubuh bagian bawah, dan daya dorong saat berjalan atau melompat.",
+            "exercises": [
+                {
+                    "name": "Barbell Hip Thrust",
+                    "sets": 4,
+                    "reps": 12,
+                    "rest_seconds": 90,
+                    "description": "Latihan utama untuk mengembangkan kekuatan dan massa glutes.",
+                    "instructions": [
+                        "Duduk di lantai dengan punggung atas bersandar pada bangku.",
+                        "Letakkan barbell di pinggul dengan bantalan.",
+                        "Dorong pinggul ke atas hingga tubuh membentuk garis lurus dari bahu ke lutut.",
+                        "Turunkan perlahan."
+                    ],
+                    "warning": "Pastikan beban seimbang untuk menghindari cedera punggung."
+                },
+                {
+                    "name": "Glute Bridge",
+                    "sets": 3,
+                    "reps": 15,
+                    "rest_seconds": 60,
+                    "description": "Versi tanpa beban dari hip thrust, cocok untuk pemula.",
+                    "instructions": [
+                        "Berbaring telentang dengan lutut ditekuk.",
+                        "Dorong pinggul ke atas hingga tubuh lurus dari bahu ke lutut.",
+                        "Turunkan perlahan."
+                    ],
+                    "warning": "Hindari lengkungan berlebihan pada punggung bawah."
+                },
+                {
+                    "name": "Bulgarian Split Squat",
+                    "sets": 3,
+                    "reps": 12,
+                    "rest_seconds": 90,
+                    "description": "Melatih glutes sekaligus keseimbangan tubuh.",
+                    "instructions": [
+                        "Letakkan satu kaki di bangku di belakang tubuh.",
+                        "Turunkan tubuh dengan menekuk lutut depan.",
+                        "Dorong kembali ke posisi awal."
+                    ],
+                    "warning": "Jaga lutut depan tidak melewati ujung jari kaki."
+                },
+                {
+                    "name": "Walking Lunge",
+                    "sets": 3,
+                    "reps": 20,
+                    "rest_seconds": 90,
+                    "description": "Latihan dinamis untuk glutes dan kaki.",
+                    "instructions": [
+                        "Melangkah maju dengan satu kaki.",
+                        "Turunkan pinggul hingga kedua lutut membentuk sudut 90°.",
+                        "Dorong ke depan untuk langkah berikutnya."
+                    ],
+                    "warning": "Jaga punggung tetap tegak."
+                },
+                {
+                    "name": "Step-Up",
+                    "sets": 3,
+                    "reps": 12,
+                    "rest_seconds": 60,
+                    "description": "Latihan fungsional untuk kekuatan glutes dan paha.",
+                    "instructions": [
+                        "Berdiri di depan bangku atau box.",
+                        "Naikkan satu kaki di atas bangku dan dorong tubuh ke atas.",
+                        "Turun perlahan."
+                    ],
+                    "warning": "Gunakan permukaan yang stabil."
+                },
+                {
+                    "name": "Cable Kickback",
+                    "sets": 3,
+                    "reps": 15,
+                    "rest_seconds": 45,
+                    "description": "Latihan isolasi untuk gluteus maximus.",
+                    "instructions": [
+                        "Pasang ankle strap di mesin kabel.",
+                        "Dorong kaki ke belakang hingga pinggul lurus.",
+                        "Kembali perlahan ke posisi awal."
+                    ],
+                    "warning": "Jangan melengkungkan punggung."
+                },
+                {
+                    "name": "Sumo Deadlift",
+                    "sets": 3,
+                    "reps": 8,
+                    "rest_seconds": 120,
+                    "description": "Deadlift dengan stance lebar yang menekankan glutes dan paha dalam.",
+                    "instructions": [
+                        "Berdiri lebar dengan jari kaki sedikit mengarah ke luar.",
+                        "Pegang barbell di antara kaki.",
+                        "Angkat beban dengan dorongan pinggul."
+                    ],
+                    "warning": "Pastikan punggung tetap lurus."
+                },
+                {
+                    "name": "Frog Pump",
+                    "sets": 3,
+                    "reps": 20,
+                    "rest_seconds": 45,
+                    "description": "Latihan glute bridge dengan telapak kaki saling bersentuhan.",
+                    "instructions": [
+                        "Berbaring telentang dengan telapak kaki saling bersentuhan.",
+                        "Dorong pinggul ke atas.",
+                        "Turunkan perlahan."
+                    ],
+                    "warning": "Fokus pada kontraksi glutes di puncak gerakan."
+                },
+                {
+                    "name": "Single-Leg Hip Thrust",
+                    "sets": 3,
+                    "reps": 12,
+                    "rest_seconds": 60,
+                    "description": "Versi unilateral dari hip thrust untuk melatih keseimbangan.",
+                    "instructions": [
+                        "Posisi seperti hip thrust biasa, tetapi satu kaki diangkat.",
+                        "Dorong pinggul ke atas dengan kaki yang menapak.",
+                        "Turunkan perlahan."
+                    ],
+                    "warning": "Jaga pinggul tetap sejajar."
+                },
+                {
+                    "name": "Kettlebell Swing",
+                    "sets": 3,
+                    "reps": 15,
+                    "rest_seconds": 60,
+                    "description": "Latihan eksplosif untuk glutes dan pinggul.",
+                    "instructions": [
+                        "Pegang kettlebell dengan kedua tangan.",
+                        "Ayunkan ke belakang di antara kaki, lalu dorong pinggul ke depan.",
+                        "Biarkan kettlebell naik setinggi bahu."
+                    ],
+                    "warning": "Jangan mengangkat kettlebell dengan lengan."
+                },
+                {
+                    "name": "Reverse Lunge",
+                    "sets": 3,
+                    "reps": 12,
+                    "rest_seconds": 60,
+                    "description": "Lunge dengan langkah ke belakang yang lebih menekankan glutes.",
+                    "instructions": [
+                        "Berdiri tegak, lalu langkahkan satu kaki ke belakang.",
+                        "Turunkan pinggul hingga lutut belakang hampir menyentuh lantai.",
+                        "Kembali ke posisi awal."
+                    ],
+                    "warning": "Jaga posisi lutut depan."
+                },
+                {
+                    "name": "Glute Kickback (Bodyweight)",
+                    "sets": 3,
+                    "reps": 15,
+                    "rest_seconds": 45,
+                    "description": "Gerakan isolasi tanpa alat untuk glutes.",
+                    "instructions": [
+                        "Posisi merangkak.",
+                        "Dorong satu kaki ke belakang dan ke atas.",
+                        "Kembali perlahan."
+                    ],
+                    "warning": "Jangan melengkungkan punggung."
+                },
+                {
+                    "name": "Resistance Band Side Step",
+                    "sets": 3,
+                    "reps": 20,
+                    "rest_seconds": 45,
+                    "description": "Latihan gluteus medius untuk stabilitas pinggul.",
+                    "instructions": [
+                        "Letakkan resistance band di sekitar paha.",
+                        "Berdiri setengah jongkok.",
+                        "Melangkah ke samping secara bergantian."
+                    ],
+                    "warning": "Jaga ketegangan band sepanjang gerakan."
+                },
+                {
+                    "name": "Donkey Kicks",
+                    "sets": 3,
+                    "reps": 15,
+                    "rest_seconds": 45,
+                    "description": "Latihan isolasi untuk membentuk glutes.",
+                    "instructions": [
+                        "Posisi merangkak.",
+                        "Dorong kaki ke belakang dengan lutut tetap ditekuk.",
+                        "Kembali perlahan."
+                    ],
+                    "warning": "Fokus pada kontraksi glutes."
+                },
+                {
+                    "name": "Curtsy Lunge",
+                    "sets": 3,
+                    "reps": 12,
+                    "rest_seconds": 60,
+                    "description": "Lunge silang yang melatih glutes dan paha dalam.",
+                    "instructions": [
+                        "Berdiri tegak, silangkan satu kaki ke belakang diagonal.",
+                        "Turunkan pinggul hingga lutut depan 90°.",
+                        "Kembali ke posisi awal."
+                    ],
+                    "warning": "Jaga keseimbangan tubuh."
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name_en": "Hamstrings",
+            "name_id": "Otot Paha Belakang",
+            "description": "Hamstrings adalah kelompok otot di bagian belakang paha yang terdiri dari biceps femoris, semitendinosus, dan semimembranosus. Otot ini berperan penting dalam fleksi lutut, ekstensi pinggul, dan stabilitas gerakan berjalan maupun berlari.",
+            "exercises": [
+                {
+                    "name": "Romanian Deadlift",
+                    "sets": 4,
+                    "reps": 10,
+                    "rest_seconds": 90,
+                    "description": "Latihan utama untuk memperkuat hamstrings dengan fokus pada gerakan pinggul.",
+                    "instructions": [
+                        "Berdiri dengan barbell di tangan.",
+                        "Turunkan barbell dengan pinggul didorong ke belakang, lutut sedikit ditekuk.",
+                        "Angkat kembali dengan mengontraksikan hamstrings."
+                    ],
+                    "warning": "Jaga punggung tetap lurus selama gerakan."
+                },
+                {
+                    "name": "Lying Leg Curl",
+                    "sets": 3,
+                    "reps": 12,
+                    "rest_seconds": 60,
+                    "description": "Isolasi hamstrings menggunakan mesin leg curl.",
+                    "instructions": [
+                        "Berbaring tengkurap di mesin leg curl.",
+                        "Tekuk lutut untuk menarik beban ke arah bokong.",
+                        "Turunkan perlahan."
+                    ],
+                    "warning": "Hindari mengangkat pinggul dari bantalan."
+                },
+                {
+                    "name": "Nordic Hamstring Curl",
+                    "sets": 3,
+                    "reps": 8,
+                    "rest_seconds": 90,
+                    "description": "Latihan berat untuk membangun kekuatan eksentrik hamstrings.",
+                    "instructions": [
+                        "Berlutut dengan kaki dipegang atau terpasang di bawah pengait.",
+                        "Turunkan tubuh ke depan secara perlahan dengan menahan beban.",
+                        "Dorong kembali ke atas."
+                    ],
+                    "warning": "Lakukan dengan kontrol penuh untuk menghindari cedera."
+                },
+                {
+                    "name": "Single-Leg Romanian Deadlift",
+                    "sets": 3,
+                    "reps": 12,
+                    "rest_seconds": 60,
+                    "description": "Versi unilateral untuk melatih keseimbangan dan kekuatan hamstrings.",
+                    "instructions": [
+                        "Berdiri dengan satu kaki sedikit terangkat.",
+                        "Turunkan badan sambil mengangkat kaki belakang lurus.",
+                        "Kembali ke posisi awal."
+                    ],
+                    "warning": "Jaga pinggul tetap sejajar."
+                },
+                {
+                    "name": "Good Morning",
+                    "sets": 3,
+                    "reps": 12,
+                    "rest_seconds": 60,
+                    "description": "Latihan fleksibilitas dan kekuatan hamstrings dengan beban di punggung.",
+                    "instructions": [
+                        "Letakkan barbell di punggung atas.",
+                        "Tekuk pinggul ke depan dengan lutut sedikit ditekuk.",
+                        "Kembali tegak."
+                    ],
+                    "warning": "Hindari membungkuk berlebihan."
+                },
+                {
+                    "name": "Swiss Ball Leg Curl",
+                    "sets": 3,
+                    "reps": 15,
+                    "rest_seconds": 60,
+                    "description": "Menggunakan bola gym untuk melatih hamstrings dan core.",
+                    "instructions": [
+                        "Berbaring telentang dengan tumit di atas bola.",
+                        "Angkat pinggul dan tarik bola ke arah bokong.",
+                        "Dorong bola kembali."
+                    ],
+                    "warning": "Jaga pinggul tetap terangkat."
+                },
+                {
+                    "name": "Cable Pull-Through",
+                    "sets": 3,
+                    "reps": 12,
+                    "rest_seconds": 60,
+                    "description": "Latihan pinggul dan hamstrings menggunakan mesin kabel.",
+                    "instructions": [
+                        "Berdiri menghadap menjauh dari mesin kabel.",
+                        "Tarik kabel di antara kaki sambil mendorong pinggul ke depan.",
+                        "Kembali perlahan."
+                    ],
+                    "warning": "Jangan menarik dengan tangan, gunakan dorongan pinggul."
+                },
+                {
+                    "name": "Kettlebell Swing",
+                    "sets": 3,
+                    "reps": 15,
+                    "rest_seconds": 60,
+                    "description": "Latihan eksplosif untuk pinggul dan hamstrings.",
+                    "instructions": [
+                        "Pegang kettlebell dengan kedua tangan.",
+                        "Ayunkan ke belakang di antara kaki, lalu dorong pinggul ke depan.",
+                        "Biarkan kettlebell naik setinggi bahu."
+                    ],
+                    "warning": "Gunakan tenaga pinggul, bukan lengan."
+                },
+                {
+                    "name": "Split Stance Romanian Deadlift",
+                    "sets": 3,
+                    "reps": 12,
+                    "rest_seconds": 60,
+                    "description": "Variasi RDL dengan stance terbelah untuk fokus unilateral.",
+                    "instructions": [
+                        "Posisikan satu kaki di depan, satu di belakang.",
+                        "Turunkan barbell sambil menjaga punggung lurus.",
+                        "Angkat kembali."
+                    ],
+                    "warning": "Pastikan lutut depan sedikit ditekuk."
+                },
+                {
+                    "name": "Seated Leg Curl",
+                    "sets": 3,
+                    "reps": 12,
+                    "rest_seconds": 60,
+                    "description": "Isolasi hamstrings dalam posisi duduk.",
+                    "instructions": [
+                        "Duduk di mesin leg curl.",
+                        "Tekuk lutut untuk menarik beban.",
+                        "Kembali perlahan."
+                    ],
+                    "warning": "Kontrol beban saat kembali ke posisi awal."
+                },
+                {
+                    "name": "Band Leg Curl",
+                    "sets": 3,
+                    "reps": 15,
+                    "rest_seconds": 45,
+                    "description": "Latihan hamstrings menggunakan resistance band.",
+                    "instructions": [
+                        "Pasang resistance band di pergelangan kaki.",
+                        "Tarik kaki ke arah bokong.",
+                        "Kembali perlahan."
+                    ],
+                    "warning": "Gunakan band dengan ketegangan yang sesuai."
+                },
+                {
+                    "name": "Glute-Ham Raise",
+                    "sets": 3,
+                    "reps": 8,
+                    "rest_seconds": 90,
+                    "description": "Latihan kombinasi glutes dan hamstrings.",
+                    "instructions": [
+                        "Gunakan mesin GHD atau partner untuk menahan kaki.",
+                        "Turunkan tubuh ke depan dengan kontrol.",
+                        "Dorong kembali ke atas."
+                    ],
+                    "warning": "Pastikan kontrol penuh saat turun."
+                },
+                {
+                    "name": "Walking Lunge (Hamstring Focus)",
+                    "sets": 3,
+                    "reps": 20,
+                    "rest_seconds": 60,
+                    "description": "Lunge dengan langkah panjang untuk meregangkan hamstrings.",
+                    "instructions": [
+                        "Langkahkan kaki panjang ke depan.",
+                        "Turunkan pinggul hingga lutut belakang hampir menyentuh lantai.",
+                        "Dorong ke depan untuk langkah berikutnya."
+                    ],
+                    "warning": "Pastikan lutut depan tidak melewati jari kaki."
+                },
+                {
+                    "name": "Reverse Deadlift",
+                    "sets": 3,
+                    "reps": 10,
+                    "rest_seconds": 90,
+                    "description": "Deadlift dengan fokus pada bagian bawah gerakan untuk hamstrings.",
+                    "instructions": [
+                        "Angkat barbell dari posisi lutut ke atas.",
+                        "Kembali perlahan ke posisi awal.",
+                        "Fokus pada kontraksi hamstrings."
+                    ],
+                    "warning": "Gunakan beban sedang untuk menjaga teknik."
+                },
+                {
+                    "name": "Landmine RDL",
+                    "sets": 3,
+                    "reps": 12,
+                    "rest_seconds": 60,
+                    "description": "Romanian Deadlift menggunakan landmine untuk variasi gerakan.",
+                    "instructions": [
+                        "Pegang ujung barbell landmine dengan kedua tangan.",
+                        "Tekuk pinggul ke belakang.",
+                        "Kembali tegak."
+                    ],
+                    "warning": "Jaga punggung tetap netral."
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name_en": "Quadriceps",
+            "name_id": "Otot Paha Depan",
+            "description": "Quadriceps adalah kelompok otot besar di bagian depan paha yang terdiri dari rectus femoris, vastus lateralis, vastus medialis, dan vastus intermedius. Berperan penting dalam ekstensi lutut, stabilisasi, dan kekuatan kaki.",
+            "exercises": [
+                {
+                    "name": "Barbell Back Squat",
+                    "sets": 4,
+                    "reps": 8,
+                    "rest_seconds": 120,
+                    "description": "Latihan utama untuk membangun kekuatan dan massa otot paha depan.",
+                    "instructions": [
+                        "Letakkan barbell di punggung atas.",
+                        "Turunkan pinggul hingga paha sejajar lantai.",
+                        "Dorong kembali ke atas."
+                    ],
+                    "warning": "Pastikan lutut tidak melewati jari kaki."
+                },
+                {
+                    "name": "Front Squat",
+                    "sets": 4,
+                    "reps": 8,
+                    "rest_seconds": 120,
+                    "description": "Squat dengan barbell di depan bahu untuk fokus pada quadriceps.",
+                    "instructions": [
+                        "Pegang barbell di depan bahu.",
+                        "Turunkan pinggul sambil menjaga dada tegak.",
+                        "Dorong kembali ke atas."
+                    ],
+                    "warning": "Jaga siku tetap tinggi."
+                },
+                {
+                    "name": "Leg Press",
+                    "sets": 3,
+                    "reps": 12,
+                    "rest_seconds": 90,
+                    "description": "Latihan mesin untuk mengisolasi quadriceps.",
+                    "instructions": [
+                        "Duduk di mesin leg press.",
+                        "Dorong beban dengan kaki hingga lutut hampir lurus.",
+                        "Kembali perlahan."
+                    ],
+                    "warning": "Jangan mengunci lutut di puncak gerakan."
+                },
+                {
+                    "name": "Walking Lunge",
+                    "sets": 3,
+                    "reps": 20,
+                    "rest_seconds": 60,
+                    "description": "Lunge berjalan untuk melatih kekuatan dan kestabilan kaki.",
+                    "instructions": [
+                        "Langkah panjang ke depan.",
+                        "Turunkan pinggul hingga lutut belakang hampir menyentuh lantai.",
+                        "Dorong untuk langkah berikutnya."
+                    ],
+                    "warning": "Jaga postur tegak."
+                },
+                {
+                    "name": "Bulgarian Split Squat",
+                    "sets": 3,
+                    "reps": 12,
+                    "rest_seconds": 90,
+                    "description": "Latihan unilateral yang menargetkan quadriceps.",
+                    "instructions": [
+                        "Tempatkan kaki belakang di bangku.",
+                        "Turunkan tubuh hingga lutut depan 90 derajat.",
+                        "Dorong kembali ke atas."
+                    ],
+                    "warning": "Gunakan keseimbangan yang baik."
+                },
+                {
+                    "name": "Step-Up",
+                    "sets": 3,
+                    "reps": 15,
+                    "rest_seconds": 60,
+                    "description": "Melatih kekuatan kaki dengan naik ke permukaan tinggi.",
+                    "instructions": [
+                        "Naik ke bangku atau box.",
+                        "Dorong tubuh ke atas menggunakan kaki depan.",
+                        "Turun perlahan."
+                    ],
+                    "warning": "Gunakan beban tambahan jika diperlukan."
+                },
+                {
+                    "name": "Hack Squat",
+                    "sets": 3,
+                    "reps": 10,
+                    "rest_seconds": 90,
+                    "description": "Squat menggunakan mesin hack squat untuk isolasi paha depan.",
+                    "instructions": [
+                        "Posisikan bahu di bantalan mesin.",
+                        "Turunkan hingga paha sejajar lantai.",
+                        "Dorong kembali ke atas."
+                    ],
+                    "warning": "Jangan kunci lutut di akhir gerakan."
+                },
+                {
+                    "name": "Sissy Squat",
+                    "sets": 3,
+                    "reps": 12,
+                    "rest_seconds": 60,
+                    "description": "Latihan bodyweight untuk membakar quadriceps.",
+                    "instructions": [
+                        "Berdiri tegak dengan kaki selebar bahu.",
+                        "Miringkan tubuh ke belakang sambil menekuk lutut.",
+                        "Kembali ke posisi awal."
+                    ],
+                    "warning": "Lakukan perlahan untuk keamanan lutut."
+                },
+                {
+                    "name": "Jump Squat",
+                    "sets": 3,
+                    "reps": 15,
+                    "rest_seconds": 60,
+                    "description": "Latihan plyometric untuk kekuatan ledakan quadriceps.",
+                    "instructions": [
+                        "Lakukan squat biasa.",
+                        "Lompat setinggi mungkin.",
+                        "Mendarat dengan lutut sedikit ditekuk."
+                    ],
+                    "warning": "Hindari mendarat dengan lutut lurus."
+                },
+                {
+                    "name": "Cyclist Squat",
+                    "sets": 3,
+                    "reps": 12,
+                    "rest_seconds": 60,
+                    "description": "Squat dengan tumit diangkat untuk menargetkan quadriceps.",
+                    "instructions": [
+                        "Letakkan tumit di atas plat kecil.",
+                        "Lakukan squat dalam posisi tegak.",
+                        "Kembali ke atas."
+                    ],
+                    "warning": "Jaga keseimbangan."
+                },
+                {
+                    "name": "Box Pistol Squat",
+                    "sets": 3,
+                    "reps": 8,
+                    "rest_seconds": 90,
+                    "description": "Pistol squat dengan bantuan box untuk mengurangi kesulitan.",
+                    "instructions": [
+                        "Berdiri dengan satu kaki di depan.",
+                        "Turunkan ke box perlahan.",
+                        "Bangkit kembali."
+                    ],
+                    "warning": "Fokus pada kontrol gerakan."
+                },
+                {
+                    "name": "Resistance Band Squat",
+                    "sets": 3,
+                    "reps": 15,
+                    "rest_seconds": 60,
+                    "description": "Squat menggunakan resistance band untuk menambah ketegangan.",
+                    "instructions": [
+                        "Pasang resistance band di bahu atau pinggul.",
+                        "Lakukan squat normal.",
+                        "Dorong kembali ke atas."
+                    ],
+                    "warning": "Gunakan band dengan ketegangan sesuai kemampuan."
+                },
+                {
+                    "name": "Wall Sit",
+                    "sets": 3,
+                    "reps": 45,
+                    "rest_seconds": 45,
+                    "description": "Latihan isometrik untuk quadriceps.",
+                    "instructions": [
+                        "Bersandar pada dinding dengan lutut 90 derajat.",
+                        "Tahan posisi selama durasi yang ditentukan."
+                    ],
+                    "warning": "Jangan biarkan lutut melewati jari kaki."
+                },
+                {
+                    "name": "Front Foot Elevated Split Squat",
+                    "sets": 3,
+                    "reps": 12,
+                    "rest_seconds": 90,
+                    "description": "Split squat dengan kaki depan diangkat untuk range gerak lebih luas.",
+                    "instructions": [
+                        "Letakkan kaki depan di plat kecil.",
+                        "Turunkan tubuh hingga lutut belakang hampir menyentuh lantai.",
+                        "Dorong kembali ke atas."
+                    ],
+                    "warning": "Jaga lutut depan tetap stabil."
+                },
+                {
+                    "name": "Machine Leg Extension",
+                    "sets": 3,
+                    "reps": 12,
+                    "rest_seconds": 60,
+                    "description": "Isolasi quadriceps dengan mesin leg extension.",
+                    "instructions": [
+                        "Duduk di mesin leg extension.",
+                        "Luruskan lutut untuk mengangkat beban.",
+                        "Turunkan perlahan."
+                    ],
+                    "warning": "Hindari mengunci lutut."
+                }
+            ]
+        },
+        {
+            "muscle_group": "Calves",
+            "muscle_group_id": 12,
+            "exercises": [
+                {
+                    "name": "Standing Calf Raise (Barbell)",
+                    "sets": 4,
+                    "reps": 15,
+                    "rest_seconds": 60,
+                    "description": "Latihan dasar untuk memperkuat betis dalam posisi berdiri.",
+                    "instructions": [
+                        "Berdiri tegak dengan barbell di atas bahu.",
+                        "Angkat tumit setinggi mungkin.",
+                        "Tahan sebentar lalu turunkan kembali."
+                    ],
+                    "warning": "Jangan mengunci lutut terlalu kaku."
+                },
+                {
+                    "name": "Seated Calf Raise",
+                    "sets": 4,
+                    "reps": 20,
+                    "rest_seconds": 60,
+                    "description": "Melatih otot betis bagian dalam dengan posisi duduk.",
+                    "instructions": [
+                        "Duduk di mesin calf raise.",
+                        "Letakkan beban di paha.",
+                        "Angkat tumit dan tahan, lalu turunkan perlahan."
+                    ],
+                    "warning": "Jangan melakukan gerakan terlalu cepat."
+                },
+                {
+                    "name": "Donkey Calf Raise",
+                    "sets": 3,
+                    "reps": 15,
+                    "rest_seconds": 60,
+                    "description": "Latihan unik dengan tubuh menunduk, menargetkan seluruh betis.",
+                    "instructions": [
+                        "Bungkuk dengan pinggang sebagai poros.",
+                        "Beban diletakkan di punggung bawah.",
+                        "Angkat tumit setinggi mungkin, lalu turunkan."
+                    ],
+                    "warning": "Pastikan posisi punggung tetap netral."
+                },
+                {
+                    "name": "Single-Leg Calf Raise",
+                    "sets": 3,
+                    "reps": 12,
+                    "rest_seconds": 45,
+                    "description": "Memfokuskan kerja pada satu betis secara bergantian.",
+                    "instructions": [
+                        "Berdiri dengan satu kaki di lantai atau step.",
+                        "Angkat tumit dan turunkan perlahan.",
+                        "Ganti kaki setelah selesai."
+                    ],
+                    "warning": "Pegang pegangan untuk menjaga keseimbangan."
+                },
+                {
+                    "name": "Smith Machine Calf Raise",
+                    "sets": 4,
+                    "reps": 15,
+                    "rest_seconds": 60,
+                    "description": "Menggunakan mesin smith untuk kontrol gerakan yang lebih stabil.",
+                    "instructions": [
+                        "Posisikan bar smith di atas bahu.",
+                        "Berdiri di atas step kecil.",
+                        "Angkat tumit lalu turunkan perlahan."
+                    ],
+                    "warning": "Jangan membiarkan tumit menyentuh lantai untuk menjaga ketegangan otot."
+                },
+                {
+                    "name": "Weighted Jump Rope",
+                    "sets": 3,
+                    "reps": 60,
+                    "rest_seconds": 45,
+                    "description": "Lompatan menggunakan tali dengan beban tambahan untuk menguatkan betis.",
+                    "instructions": [
+                        "Gunakan tali skipping berbeban.",
+                        "Lompat dengan ritme konsisten.",
+                        "Gunakan ujung kaki untuk mendarat."
+                    ],
+                    "warning": "Gunakan sepatu yang nyaman untuk menghindari cedera."
+                },
+                {
+                    "name": "Farmer’s Walk on Toes",
+                    "sets": 3,
+                    "reps": 40,
+                    "rest_seconds": 60,
+                    "description": "Berjalan dengan ujung kaki sambil membawa beban di tangan.",
+                    "instructions": [
+                        "Pegang dumbbell di kedua tangan.",
+                        "Berjalan di ujung kaki sejauh yang ditentukan.",
+                        "Jaga postur tubuh tetap tegak."
+                    ],
+                    "warning": "Jangan melengkungkan punggung."
+                },
+                {
+                    "name": "Leg Press Calf Raise",
+                    "sets": 3,
+                    "reps": 15,
+                    "rest_seconds": 60,
+                    "description": "Melatih betis dengan mesin leg press.",
+                    "instructions": [
+                        "Posisikan kaki di bagian bawah papan leg press.",
+                        "Dorong papan dengan ujung kaki.",
+                        "Turunkan perlahan dan ulangi."
+                    ],
+                    "warning": "Jangan mengunci lutut."
+                },
+                {
+                    "name": "Box Jumps",
+                    "sets": 3,
+                    "reps": 12,
+                    "rest_seconds": 60,
+                    "description": "Lompatan eksplosif untuk kekuatan betis dan kaki.",
+                    "instructions": [
+                        "Berdiri di depan box.",
+                        "Lompat ke atas box menggunakan tenaga betis.",
+                        "Turun perlahan dan ulangi."
+                    ],
+                    "warning": "Gunakan box yang stabil dan sesuai tinggi kemampuan."
+                },
+                {
+                    "name": "Calf Plyo Hops",
+                    "sets": 3,
+                    "reps": 20,
+                    "rest_seconds": 45,
+                    "description": "Lompatan kecil cepat untuk melatih daya tahan betis.",
+                    "instructions": [
+                        "Berdiri dengan ujung kaki.",
+                        "Lakukan lompatan kecil berulang.",
+                        "Jaga tempo tetap cepat."
+                    ],
+                    "warning": "Hindari pendaratan keras untuk mencegah cedera."
+                },
+                {
+                    "name": "Resistance Band Calf Press",
+                    "sets": 3,
+                    "reps": 15,
+                    "rest_seconds": 45,
+                    "description": "Latihan betis menggunakan resistance band.",
+                    "instructions": [
+                        "Lingkarkan band di bawah telapak kaki.",
+                        "Dorong ujung kaki ke depan melawan band.",
+                        "Kembali perlahan."
+                    ],
+                    "warning": "Pastikan band terikat aman."
+                },
+                {
+                    "name": "Sprint Uphill",
+                    "sets": 6,
+                    "reps": 20,
+                    "rest_seconds": 90,
+                    "description": "Lari menanjak untuk melatih kekuatan betis dan kaki.",
+                    "instructions": [
+                        "Cari jalur menanjak atau treadmill incline.",
+                        "Lari dengan intensitas tinggi.",
+                        "Jaga tubuh condong sedikit ke depan."
+                    ],
+                    "warning": "Lakukan pemanasan sebelum sprint."
+                },
+                {
+                    "name": "Ankle Bounce",
+                    "sets": 3,
+                    "reps": 30,
+                    "rest_seconds": 45,
+                    "description": "Pantulan ringan untuk menguatkan pergelangan dan betis.",
+                    "instructions": [
+                        "Berdiri di ujung kaki.",
+                        "Lakukan pantulan cepat tanpa menurunkan tumit.",
+                        "Ulangi dengan tempo stabil."
+                    ],
+                    "warning": "Gunakan matras untuk meredam hentakan."
+                },
+                {
+                    "name": "Wall Calf Stretch",
+                    "sets": 2,
+                    "reps": 30,
+                    "rest_seconds": 30,
+                    "description": "Peregangan betis untuk meningkatkan fleksibilitas.",
+                    "instructions": [
+                        "Berdiri menghadap tembok.",
+                        "Letakkan satu kaki di belakang.",
+                        "Tekan tumit ke lantai untuk meregangkan betis."
+                    ],
+                    "warning": "Jangan memantul saat peregangan."
+                },
+                {
+                    "name": "Tiptoe Hold",
+                    "sets": 3,
+                    "reps": 20,
+                    "rest_seconds": 45,
+                    "description": "Isometric hold untuk memperkuat betis.",
+                    "instructions": [
+                        "Berdiri di ujung kaki.",
+                        "Tahan posisi setinggi mungkin selama durasi rep.",
+                        "Turunkan perlahan."
+                    ],
+                    "warning": "Jaga keseimbangan dengan memegang dinding."
+                }
+            ]
+        },
+        {
+            "muscle_group": "Trapezius",
+            "muscle_group_id": 13,
+            "exercises": [
+                {
+                    "name": "Barbell Shrug",
+                    "sets": 4,
+                    "reps": 15,
+                    "rest_seconds": 60,
+                    "description": "Latihan utama untuk memperkuat trapezius atas.",
+                    "instructions": [
+                        "Pegang barbell di depan paha dengan tangan selebar bahu.",
+                        "Angkat bahu setinggi mungkin.",
+                        "Tahan sebentar, lalu turunkan perlahan."
+                    ],
+                    "warning": "Jangan memutar bahu saat melakukan shrug."
+                },
+                {
+                    "name": "Dumbbell Shrug",
+                    "sets": 4,
+                    "reps": 15,
+                    "rest_seconds": 60,
+                    "description": "Alternatif menggunakan dumbbell untuk range of motion lebih bebas.",
+                    "instructions": [
+                        "Pegang dumbbell di kedua sisi tubuh.",
+                        "Angkat bahu ke arah telinga.",
+                        "Turunkan perlahan."
+                    ],
+                    "warning": "Jaga punggung tetap lurus."
+                },
+                {
+                    "name": "Face Pull",
+                    "sets": 3,
+                    "reps": 12,
+                    "rest_seconds": 60,
+                    "description": "Melatih trapezius tengah dan belakang menggunakan kabel.",
+                    "instructions": [
+                        "Pasang tali di mesin kabel setinggi wajah.",
+                        "Tarik tali ke arah wajah sambil membuka siku ke luar.",
+                        "Kembali perlahan."
+                    ],
+                    "warning": "Gunakan beban ringan hingga sedang untuk menghindari cedera bahu."
+                },
+                {
+                    "name": "Upright Row (Barbell)",
+                    "sets": 3,
+                    "reps": 12,
+                    "rest_seconds": 60,
+                    "description": "Mengaktifkan trapezius dan bahu secara bersamaan.",
+                    "instructions": [
+                        "Pegang barbell selebar bahu.",
+                        "Tarik barbell ke arah dagu.",
+                        "Turunkan perlahan."
+                    ],
+                    "warning": "Jangan menarik terlalu tinggi untuk menghindari tekanan pada sendi bahu."
+                },
+                {
+                    "name": "Behind-the-Back Barbell Shrug",
+                    "sets": 3,
+                    "reps": 15,
+                    "rest_seconds": 60,
+                    "description": "Shrug dengan barbell di belakang tubuh untuk variasi stimulasi.",
+                    "instructions": [
+                        "Pegang barbell di belakang pinggul.",
+                        "Angkat bahu setinggi mungkin.",
+                        "Turunkan perlahan."
+                    ],
+                    "warning": "Pastikan genggaman kuat agar barbell tidak jatuh."
+                },
+                {
+                    "name": "Incline Dumbbell Shrug",
+                    "sets": 3,
+                    "reps": 15,
+                    "rest_seconds": 60,
+                    "description": "Shrug dengan posisi tubuh miring untuk mengisolasi trapezius.",
+                    "instructions": [
+                        "Duduk di bangku incline dengan dumbbell di tangan.",
+                        "Angkat bahu ke atas.",
+                        "Turunkan perlahan."
+                    ],
+                    "warning": "Jangan menundukkan kepala saat mengangkat beban."
+                },
+                {
+                    "name": "Overhead Barbell Hold",
+                    "sets": 3,
+                    "reps": 30,
+                    "rest_seconds": 60,
+                    "description": "Latihan isometrik untuk memperkuat trapezius dan stabilitas bahu.",
+                    "instructions": [
+                        "Angkat barbell di atas kepala.",
+                        "Tahan posisi selama durasi rep.",
+                        "Turunkan perlahan."
+                    ],
+                    "warning": "Gunakan beban yang terkendali."
+                },
+                {
+                    "name": "Kettlebell High Pull",
+                    "sets": 3,
+                    "reps": 12,
+                    "rest_seconds": 60,
+                    "description": "Variasi upright row menggunakan kettlebell.",
+                    "instructions": [
+                        "Pegang kettlebell dengan dua tangan.",
+                        "Tarik ke arah dagu.",
+                        "Turunkan perlahan."
+                    ],
+                    "warning": "Jaga punggung tetap tegak."
+                },
+                {
+                    "name": "Rack Pulls",
+                    "sets": 3,
+                    "reps": 10,
+                    "rest_seconds": 90,
+                    "description": "Latihan deadlift sebagian untuk menguatkan trapezius atas dan tengah.",
+                    "instructions": [
+                        "Atur barbell di rak setinggi lutut.",
+                        "Tarik ke atas hingga posisi tegak.",
+                        "Turunkan kembali ke rak."
+                    ],
+                    "warning": "Gunakan pinggul sebagai penggerak utama."
+                },
+                {
+                    "name": "Power Clean",
+                    "sets": 4,
+                    "reps": 6,
+                    "rest_seconds": 120,
+                    "description": "Gerakan eksplosif yang melibatkan trapezius dan seluruh tubuh.",
+                    "instructions": [
+                        "Mulai dari posisi deadlift.",
+                        "Tarik barbell ke atas dan lakukan catch di bahu.",
+                        "Turunkan ke posisi awal."
+                    ],
+                    "warning": "Pelajari teknik dari pelatih sebelum mencoba."
+                },
+                {
+                    "name": "Snatch-Grip Shrug",
+                    "sets": 3,
+                    "reps": 12,
+                    "rest_seconds": 60,
+                    "description": "Shrug dengan pegangan lebar untuk merangsang trapezius lebih luas.",
+                    "instructions": [
+                        "Pegang barbell dengan grip lebar.",
+                        "Angkat bahu setinggi mungkin.",
+                        "Turunkan perlahan."
+                    ],
+                    "warning": "Gunakan beban sedang."
+                },
+                {
+                    "name": "Dumbbell Farmer's Walk",
+                    "sets": 3,
+                    "reps": 40,
+                    "rest_seconds": 60,
+                    "description": "Berjalan sambil membawa dumbbell berat di kedua tangan.",
+                    "instructions": [
+                        "Pegang dumbbell berat di sisi tubuh.",
+                        "Berjalan dengan punggung tegak.",
+                        "Jaga genggaman kuat."
+                    ],
+                    "warning": "Jangan membungkuk."
+                },
+                {
+                    "name": "Shrug Hold",
+                    "sets": 3,
+                    "reps": 20,
+                    "rest_seconds": 45,
+                    "description": "Tahan posisi shrug untuk memperkuat kontraksi trapezius.",
+                    "instructions": [
+                        "Angkat bahu setinggi mungkin.",
+                        "Tahan selama durasi rep.",
+                        "Turunkan perlahan."
+                    ],
+                    "warning": "Gunakan beban ringan hingga sedang."
+                },
+                {
+                    "name": "Cable Upright Row",
+                    "sets": 3,
+                    "reps": 12,
+                    "rest_seconds": 60,
+                    "description": "Menggunakan mesin kabel untuk upright row.",
+                    "instructions": [
+                        "Pasang pegangan lurus di kabel rendah.",
+                        "Tarik ke arah dagu.",
+                        "Turunkan perlahan."
+                    ],
+                    "warning": "Gunakan teknik yang benar untuk menghindari cedera."
+                },
+                {
+                    "name": "Prone Y Raise",
+                    "sets": 3,
+                    "reps": 12,
+                    "rest_seconds": 60,
+                    "description": "Latihan isolasi trapezius tengah dengan beban ringan.",
+                    "instructions": [
+                        "Berbaring tengkurap di bangku incline.",
+                        "Angkat tangan membentuk huruf Y.",
+                        "Turunkan perlahan."
+                    ],
+                    "warning": "Gunakan beban sangat ringan."
+                }
+            ]
+        },
+        {
+            "muscle_group": "Obliques",
+            "muscle_group_id": 14,
+            "exercises": [
+                {
+                    "name": "Russian Twist",
+                    "sets": 3,
+                    "reps": 20,
+                    "rest_seconds": 45,
+                    "description": "Latihan rotasi inti untuk menguatkan otot obliques.",
+                    "instructions": [
+                        "Duduk dengan lutut ditekuk dan kaki sedikit diangkat.",
+                        "Pegang beban atau bola medicine.",
+                        "Putar tubuh ke kiri dan kanan bergantian."
+                    ],
+                    "warning": "Jaga punggung tetap tegak."
+                },
+                {
+                    "name": "Side Plank",
+                    "sets": 3,
+                    "reps": 30,
+                    "rest_seconds": 45,
+                    "description": "Isometrik untuk memperkuat obliques dan core.",
+                    "instructions": [
+                        "Berbaring miring dengan siku menopang tubuh.",
+                        "Angkat pinggul hingga tubuh lurus.",
+                        "Tahan posisi sesuai durasi."
+                    ],
+                    "warning": "Jangan biarkan pinggul turun."
+                },
+                {
+                    "name": "Bicycle Crunch",
+                    "sets": 3,
+                    "reps": 20,
+                    "rest_seconds": 45,
+                    "description": "Gerakan crunch bergantian untuk melatih obliques dan rectus abdominis.",
+                    "instructions": [
+                        "Berbaring telentang dengan tangan di belakang kepala.",
+                        "Bawa lutut kanan ke siku kiri sambil meluruskan kaki kiri.",
+                        "Bergantian dengan sisi lainnya."
+                    ],
+                    "warning": "Jangan menarik leher dengan tangan."
+                },
+                {
+                    "name": "Standing Oblique Crunch",
+                    "sets": 3,
+                    "reps": 15,
+                    "rest_seconds": 45,
+                    "description": "Latihan obliques dalam posisi berdiri.",
+                    "instructions": [
+                        "Berdiri dengan kaki selebar bahu.",
+                        "Angkat lutut kanan ke arah siku kanan.",
+                        "Bergantian sisi."
+                    ],
+                    "warning": "Gerakan harus terkendali."
+                },
+                {
+                    "name": "Cable Woodchopper",
+                    "sets": 3,
+                    "reps": 12,
+                    "rest_seconds": 45,
+                    "description": "Rotasi tubuh menggunakan mesin kabel.",
+                    "instructions": [
+                        "Pasang pegangan kabel di posisi tinggi.",
+                        "Tarik kabel secara diagonal ke arah bawah tubuh.",
+                        "Kembali perlahan."
+                    ],
+                    "warning": "Gunakan beban ringan hingga sedang."
+                },
+                {
+                    "name": "Side Bend (Dumbbell)",
+                    "sets": 3,
+                    "reps": 15,
+                    "rest_seconds": 45,
+                    "description": "Latihan sederhana untuk mengaktifkan obliques.",
+                    "instructions": [
+                        "Pegang dumbbell di satu tangan.",
+                        "Condongkan tubuh ke samping.",
+                        "Kembali ke posisi awal."
+                    ],
+                    "warning": "Jangan membungkuk ke depan."
+                },
+                {
+                    "name": "V-Sit Twist",
+                    "sets": 3,
+                    "reps": 20,
+                    "rest_seconds": 45,
+                    "description": "Variasi Russian Twist dengan kaki lebih tinggi.",
+                    "instructions": [
+                        "Duduk di lantai, angkat kaki sedikit lebih tinggi dari Russian Twist.",
+                        "Pegang beban atau bola medicine.",
+                        "Putar tubuh ke kiri dan kanan."
+                    ],
+                    "warning": "Jaga keseimbangan."
+                },
+                {
+                    "name": "Medicine Ball Slam (Side-to-Side)",
+                    "sets": 3,
+                    "reps": 15,
+                    "rest_seconds": 45,
+                    "description": "Latihan eksplosif untuk obliques dan core.",
+                    "instructions": [
+                        "Pegang medicine ball di atas kepala.",
+                        "Puter tubuh dan lempar bola ke samping.",
+                        "Ambil kembali dan ulangi ke sisi lain."
+                    ],
+                    "warning": "Gunakan bola yang sesuai beratnya."
+                },
+                {
+                    "name": "Windshield Wipers",
+                    "sets": 3,
+                    "reps": 12,
+                    "rest_seconds": 45,
+                    "description": "Latihan untuk obliques bawah.",
+                    "instructions": [
+                        "Berbaring telentang dan angkat kaki lurus ke atas.",
+                        "Putar kaki ke kiri dan kanan seperti wiper mobil.",
+                        "Kontrol gerakan."
+                    ],
+                    "warning": "Jaga punggung bawah tetap menempel lantai."
+                },
+                {
+                    "name": "Landmine Twist",
+                    "sets": 3,
+                    "reps": 12,
+                    "rest_seconds": 60,
+                    "description": "Rotasi menggunakan landmine barbell.",
+                    "instructions": [
+                        "Pegang ujung barbell yang terpasang di sudut.",
+                        "Putar tubuh dari kiri ke kanan.",
+                        "Kembali ke tengah setiap repetisi."
+                    ],
+                    "warning": "Gunakan pinggul untuk membantu rotasi."
+                },
+                {
+                    "name": "Hanging Knee Raise with Twist",
+                    "sets": 3,
+                    "reps": 12,
+                    "rest_seconds": 60,
+                    "description": "Mengangkat lutut sambil memutar pinggul untuk melatih obliques.",
+                    "instructions": [
+                        "Gantung di pull-up bar.",
+                        "Angkat lutut dan putar ke satu sisi.",
+                        "Bergantian sisi."
+                    ],
+                    "warning": "Jangan ayunkan tubuh berlebihan."
+                },
+                {
+                    "name": "Seated Barbell Twist",
+                    "sets": 3,
+                    "reps": 15,
+                    "rest_seconds": 60,
+                    "description": "Latihan rotasi duduk dengan barbell di belakang leher.",
+                    "instructions": [
+                        "Duduk di bangku dengan punggung tegak.",
+                        "Putar tubuh ke kiri dan kanan.",
+                        "Jaga bahu tetap sejajar."
+                    ],
+                    "warning": "Gunakan beban ringan untuk menghindari cedera punggung."
+                },
+                {
+                    "name": "Plank Hip Dip",
+                    "sets": 3,
+                    "reps": 20,
+                    "rest_seconds": 45,
+                    "description": "Variasi plank dengan gerakan pinggul.",
+                    "instructions": [
+                        "Posisi plank siku.",
+                        "Putar pinggul ke kiri dan kanan hingga hampir menyentuh lantai.",
+                        "Jaga tubuh tetap stabil."
+                    ],
+                    "warning": "Hindari gerakan cepat yang tidak terkontrol."
+                },
+                {
+                    "name": "Overhead Dumbbell Side Bend",
+                    "sets": 3,
+                    "reps": 12,
+                    "rest_seconds": 45,
+                    "description": "Side bend dengan dumbbell di atas kepala untuk aktivasi lebih.",
+                    "instructions": [
+                        "Pegang dumbbell di atas kepala.",
+                        "Condongkan tubuh ke samping.",
+                        "Kembali ke posisi awal."
+                    ],
+                    "warning": "Gunakan beban ringan."
+                },
+                {
+                    "name": "Lying Side Crunch",
+                    "sets": 3,
+                    "reps": 15,
+                    "rest_seconds": 45,
+                    "description": "Crunch miring untuk mengisolasi obliques.",
+                    "instructions": [
+                        "Berbaring miring dengan tangan di belakang kepala.",
+                        "Angkat bahu ke arah pinggul.",
+                        "Turunkan perlahan."
+                    ],
+                    "warning": "Gunakan gerakan terkendali."
+                }
+            ]
+        },
+        {
+            "muscle_group": "Neck",
+            "muscle_group_id": 15,
+            "exercises": [
+                {
+                    "name": "Neck Flexion (Bodyweight)",
+                    "sets": 3,
+                    "reps": 15,
+                    "rest_seconds": 45,
+                    "description": "Latihan menundukkan kepala untuk menguatkan otot leher bagian depan.",
+                    "instructions": [
+                        "Duduk atau berdiri dengan punggung tegak.",
+                        "Tundukkan kepala perlahan hingga dagu mendekati dada.",
+                        "Kembali ke posisi awal."
+                    ],
+                    "warning": "Hindari gerakan cepat."
+                },
+                {
+                    "name": "Neck Extension (Bodyweight)",
+                    "sets": 3,
+                    "reps": 15,
+                    "rest_seconds": 45,
+                    "description": "Mengangkat kepala ke belakang untuk melatih otot leher belakang.",
+                    "instructions": [
+                        "Duduk atau berdiri tegak.",
+                        "Perlahan dongakkan kepala ke atas.",
+                        "Kembali ke posisi netral."
+                    ],
+                    "warning": "Jangan menekan leher terlalu jauh ke belakang."
+                },
+                {
+                    "name": "Lateral Neck Flexion",
+                    "sets": 3,
+                    "reps": 12,
+                    "rest_seconds": 45,
+                    "description": "Memiringkan kepala untuk melatih otot samping leher.",
+                    "instructions": [
+                        "Duduk atau berdiri tegak.",
+                        "Miringkan kepala ke satu sisi hingga telinga mendekati bahu.",
+                        "Kembali dan ganti sisi."
+                    ],
+                    "warning": "Jangan memutar kepala saat miring."
+                },
+                {
+                    "name": "Neck Rotation",
+                    "sets": 3,
+                    "reps": 12,
+                    "rest_seconds": 45,
+                    "description": "Memutar kepala secara perlahan untuk mobilitas leher.",
+                    "instructions": [
+                        "Duduk tegak.",
+                        "Putar kepala ke kiri sejauh nyaman.",
+                        "Kembali dan putar ke kanan."
+                    ],
+                    "warning": "Gerakan harus lambat."
+                },
+                {
+                    "name": "Isometric Neck Flexion",
+                    "sets": 3,
+                    "reps": 10,
+                    "rest_seconds": 30,
+                    "description": "Menahan tekanan ke depan dengan tangan untuk menguatkan otot leher depan.",
+                    "instructions": [
+                        "Letakkan telapak tangan di dahi.",
+                        "Dorong kepala ke depan sambil menahan dengan tangan.",
+                        "Tahan 5 detik."
+                    ],
+                    "warning": "Jangan menahan napas."
+                },
+                {
+                    "name": "Isometric Neck Extension",
+                    "sets": 3,
+                    "reps": 10,
+                    "rest_seconds": 30,
+                    "description": "Menahan tekanan ke belakang untuk melatih otot leher belakang.",
+                    "instructions": [
+                        "Letakkan tangan di belakang kepala.",
+                        "Dorong kepala ke belakang sambil menahan dengan tangan.",
+                        "Tahan 5 detik."
+                    ],
+                    "warning": "Jangan menekan terlalu keras."
+                },
+                {
+                    "name": "Isometric Lateral Neck Flexion",
+                    "sets": 3,
+                    "reps": 10,
+                    "rest_seconds": 30,
+                    "description": "Menahan tekanan ke samping untuk melatih otot leher samping.",
+                    "instructions": [
+                        "Letakkan tangan di sisi kepala.",
+                        "Dorong kepala ke arah tangan tanpa menggerakkan leher.",
+                        "Tahan 5 detik."
+                    ],
+                    "warning": "Gerakan harus halus."
+                },
+                {
+                    "name": "Neck Curl (Weighted Plate)",
+                    "sets": 3,
+                    "reps": 15,
+                    "rest_seconds": 45,
+                    "description": "Latihan fleksor leher dengan beban tambahan.",
+                    "instructions": [
+                        "Berbaring telentang di bangku.",
+                        "Letakkan plate di dahi.",
+                        "Tundukkan kepala perlahan."
+                    ],
+                    "warning": "Gunakan beban ringan."
+                },
+                {
+                    "name": "Neck Extension (Weighted Plate)",
+                    "sets": 3,
+                    "reps": 15,
+                    "rest_seconds": 45,
+                    "description": "Latihan ekstensor leher dengan beban.",
+                    "instructions": [
+                        "Berbaring tengkurap di bangku.",
+                        "Letakkan plate di belakang kepala.",
+                        "Dongakkan kepala perlahan."
+                    ],
+                    "warning": "Jaga leher tetap terkendali."
+                },
+                {
+                    "name": "Neck Harness Extension",
+                    "sets": 3,
+                    "reps": 15,
+                    "rest_seconds": 60,
+                    "description": "Menggunakan neck harness untuk menguatkan leher belakang.",
+                    "instructions": [
+                        "Pasang harness di kepala.",
+                        "Tambahkan beban sesuai kemampuan.",
+                        "Gerakkan kepala ke belakang."
+                    ],
+                    "warning": "Gunakan beban ringan di awal."
+                },
+                {
+                    "name": "Neck Harness Flexion",
+                    "sets": 3,
+                    "reps": 15,
+                    "rest_seconds": 60,
+                    "description": "Menguatkan leher depan dengan neck harness.",
+                    "instructions": [
+                        "Pasang harness di kepala bagian depan.",
+                        "Tambahkan beban.",
+                        "Gerakkan kepala ke depan."
+                    ],
+                    "warning": "Hindari gerakan tiba-tiba."
+                },
+                {
+                    "name": "Supine Neck Bridge",
+                    "sets": 3,
+                    "reps": 10,
+                    "rest_seconds": 60,
+                    "description": "Latihan untuk kekuatan dan stabilitas leher.",
+                    "instructions": [
+                        "Berbaring telentang dengan lutut ditekuk.",
+                        "Angkat pinggul dan topang kepala di lantai.",
+                        "Tahan beberapa detik."
+                    ],
+                    "warning": "Pastikan leher aman sebelum mencoba."
+                },
+                {
+                    "name": "Prone Neck Bridge",
+                    "sets": 3,
+                    "reps": 10,
+                    "rest_seconds": 60,
+                    "description": "Variasi neck bridge tengkurap.",
+                    "instructions": [
+                        "Berbaring tengkurap.",
+                        "Angkat tubuh hingga hanya kepala dan kaki menyentuh lantai.",
+                        "Tahan beberapa detik."
+                    ],
+                    "warning": "Cocok untuk atlet berpengalaman."
+                },
+                {
+                    "name": "Resistance Band Neck Flexion",
+                    "sets": 3,
+                    "reps": 12,
+                    "rest_seconds": 45,
+                    "description": "Latihan leher depan dengan resistance band.",
+                    "instructions": [
+                        "Pasang band di belakang kepala.",
+                        "Tarik kepala ke depan melawan resistensi.",
+                        "Kembali perlahan."
+                    ],
+                    "warning": "Gunakan band dengan resistensi ringan."
+                },
+                {
+                    "name": "Resistance Band Neck Extension",
+                    "sets": 3,
+                    "reps": 12,
+                    "rest_seconds": 45,
+                    "description": "Latihan leher belakang dengan resistance band.",
+                    "instructions": [
+                        "Pasang band di depan kepala.",
+                        "Tarik kepala ke belakang melawan resistensi.",
+                        "Kembali perlahan."
+                    ],
+                    "warning": "Kontrol gerakan agar tidak cedera."
+                }
+            ]
+        }
+    ]
+}

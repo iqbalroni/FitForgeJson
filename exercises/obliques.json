@@ -1,0 +1,200 @@
+{
+  "muscle_group": "Obliques",
+  "exercises": [
+    {
+      "name": "Side Plank",
+      "sets": 3,
+      "reps": 30,
+      "rest_seconds": 45,
+      "description": "Isometric hold untuk melatih otot oblique samping.",
+      "instructions": [
+        "Berbaring miring dengan siku sejajar bahu.",
+        "Angkat pinggul hingga tubuh lurus.",
+        "Tahan posisi."
+      ],
+      "warning": "Jangan biarkan pinggul turun."
+    },
+    {
+      "name": "Russian Twist",
+      "sets": 3,
+      "reps": 20,
+      "rest_seconds": 45,
+      "description": "Latihan rotasi tubuh untuk menguatkan obliques.",
+      "instructions": [
+        "Duduk dengan lutut ditekuk dan kaki sedikit terangkat.",
+        "Putar tubuh ke kiri dan kanan sambil memegang beban.",
+        "Jaga punggung tetap lurus."
+      ],
+      "warning": "Jangan membungkukkan punggung."
+    },
+    {
+      "name": "Bicycle Crunch",
+      "sets": 3,
+      "reps": 20,
+      "rest_seconds": 45,
+      "description": "Gerakan kombinasi crunch dan kayuhan kaki.",
+      "instructions": [
+        "Berbaring telentang.",
+        "Sentuhkan siku kanan ke lutut kiri sambil meluruskan kaki kanan.",
+        "Bergantian ke sisi lain."
+      ],
+      "warning": "Jangan menarik leher dengan tangan."
+    },
+    {
+      "name": "Side Bend with Dumbbell",
+      "sets": 3,
+      "reps": 15,
+      "rest_seconds": 45,
+      "description": "Gerakan sederhana untuk memperkuat obliques.",
+      "instructions": [
+        "Pegang dumbbell di satu tangan.",
+        "Miringkan tubuh ke samping sejauh mungkin.",
+        "Kembali ke posisi awal."
+      ],
+      "warning": "Lakukan dengan perlahan."
+    },
+    {
+      "name": "Cable Woodchopper",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Latihan rotasi diagonal dengan mesin kabel.",
+      "instructions": [
+        "Pegang handle kabel di posisi atas.",
+        "Tarik kabel secara diagonal ke bawah.",
+        "Kembali ke posisi awal."
+      ],
+      "warning": "Kontrol beban saat kembali."
+    },
+    {
+      "name": "Reverse Cable Woodchopper",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Kebalikan dari cable woodchopper.",
+      "instructions": [
+        "Pegang handle kabel di posisi bawah.",
+        "Tarik kabel secara diagonal ke atas.",
+        "Kembali ke posisi awal."
+      ],
+      "warning": "Gunakan beban ringan dahulu."
+    },
+    {
+      "name": "Standing Oblique Crunch",
+      "sets": 3,
+      "reps": 15,
+      "rest_seconds": 45,
+      "description": "Crunch berdiri untuk melatih obliques.",
+      "instructions": [
+        "Berdiri tegak, tangan di belakang kepala.",
+        "Angkat lutut ke samping sambil menurunkan siku ke arah lutut.",
+        "Ganti sisi."
+      ],
+      "warning": "Jaga postur tubuh."
+    },
+    {
+      "name": "Windshield Wipers",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Latihan rotasi pinggul untuk obliques.",
+      "instructions": [
+        "Berbaring telentang dengan tangan di samping.",
+        "Angkat kaki lurus ke atas.",
+        "Putar kaki ke kiri dan kanan seperti wiper."
+      ],
+      "warning": "Jangan sampai kaki menyentuh lantai."
+    },
+    {
+      "name": "Oblique V-Up",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Kombinasi gerakan V-up untuk fokus pada sisi tubuh.",
+      "instructions": [
+        "Berbaring miring.",
+        "Angkat kaki dan tubuh bagian atas secara bersamaan.",
+        "Kembali ke posisi awal."
+      ],
+      "warning": "Gunakan matras untuk kenyamanan."
+    },
+    {
+      "name": "Side Jackknife",
+      "sets": 3,
+      "reps": 15,
+      "rest_seconds": 45,
+      "description": "Gerakan isolasi oblique sambil berbaring miring.",
+      "instructions": [
+        "Berbaring miring, tangan di belakang kepala.",
+        "Angkat siku dan lutut secara bersamaan.",
+        "Kembali perlahan."
+      ],
+      "warning": "Kontrol setiap repetisi."
+    },
+    {
+      "name": "Seated Bar Twist",
+      "sets": 3,
+      "reps": 20,
+      "rest_seconds": 45,
+      "description": "Latihan rotasi menggunakan tongkat atau bar.",
+      "instructions": [
+        "Duduk di bangku.",
+        "Letakkan tongkat di belakang leher.",
+        "Putar tubuh ke kiri dan kanan."
+      ],
+      "warning": "Gerakan harus terkontrol."
+    },
+    {
+      "name": "Hanging Knee Raise with Twist",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Latihan oblique di pull-up bar.",
+      "instructions": [
+        "Gantung di pull-up bar.",
+        "Angkat lutut ke arah dada sambil memutar pinggul.",
+        "Kembali perlahan."
+      ],
+      "warning": "Gunakan grip yang kuat."
+    },
+    {
+      "name": "Medicine Ball Side Throw",
+      "sets": 3,
+      "reps": 15,
+      "rest_seconds": 60,
+      "description": "Latihan eksplosif untuk obliques.",
+      "instructions": [
+        "Berdiri menyamping ke dinding.",
+        "Lempar bola ke dinding dari posisi rotasi.",
+        "Tangkap kembali dan ulangi."
+      ],
+      "warning": "Gunakan bola dengan berat sesuai kemampuan."
+    },
+    {
+      "name": "Landmine Rotation",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Latihan rotasi dengan landmine barbell.",
+      "instructions": [
+        "Pegang ujung barbell yang dipasang di landmine.",
+        "Putar barbell dari satu sisi ke sisi lain.",
+        "Kontrol gerakan."
+      ],
+      "warning": "Jangan gunakan beban terlalu berat."
+    },
+    {
+      "name": "T-Push Up with Rotation",
+      "sets": 3,
+      "reps": 12,
+      "rest_seconds": 60,
+      "description": "Push up dengan rotasi untuk melatih obliques.",
+      "instructions": [
+        "Lakukan push up.",
+        "Putar tubuh dan angkat satu tangan ke atas membentuk huruf T.",
+        "Kembali ke posisi awal dan ganti sisi."
+      ],
+      "warning": "Pastikan inti tubuh tetap aktif."
+    }
+  ]
+}
